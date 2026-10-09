@@ -1,8 +1,8 @@
 {
-  "versionName": "3.4.1",
-  "versionCode": 30401,
+  "versionName": "3.4.0",
+  "versionCode": 30400,
   "downloadUrl": "https://github.com/ElainaChina/xht-images/releases/download/v3.4.0/xiaohaitu_3.4.0.apk",
-  "changelog": "【测试版本】小海兔 v3.4.1\n- 新增启动自动检查更新功能\n- 发现新版本时弹窗显示更新公告\n- 支持「更新」和「忽略」两个按钮\n- 忽略后本次启动不再提示，直到下个版本出现\n- 设置中手动检查可强制弹出\n\n（此为版本更新流程测试，下载链接仍指向 v3.4.0 APK）",
+  "changelog": "小海兔 v3.4.0 云端优化版\n- 图片资源迁移至 GitHub + jsDelivr CDN，APK 体积大幅缩减\n- 新增启动自动检查更新功能，发现新版本弹窗提示\n- 支持更新/忽略选项，忽略后本次启动不再提示\n- 加载界面优化：横向进度条、欢迎文字、吉祥物跟随动画\n- 增强应用完整性校验，防止 JS 文件被篡改\n- 远程更新源切换至 GitHub",
   "forceUpdate": false,
   "publishDate": "2026-10-09",
   "integrity": {
