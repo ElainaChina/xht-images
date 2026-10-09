@@ -1,0 +1,8 @@
+{
+  "versionName": "3.3.3",
+  "versionCode": 30303,
+  "downloadUrl": "https://github.com/ElainaChina/xht-images/releases/download/v3.3.3/xiaohaitu_3.3.3.apk",
+  "changelog": "小海兔 v3.3.3 云端优化版\n- 图片资源迁移至 GitHub + jsDelivr CDN\n- APK 体积从 24MB 降至 6.57MB (减少 72.6%)\n- 启动速度提升，内存占用降低\n- 远程更新源切换至 GitHub\n\n（此为首版云端版，无强制更新）",
+  "forceUpdate": false,
+  "publishDate": "2026-10-09"
+}
