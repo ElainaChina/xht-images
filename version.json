@@ -1,12 +1,12 @@
 {
-  "versionName": "3.4.0",
-  "versionCode": 30400,
-  "downloadUrl": "https://github.com/ElainaChina/xht-images/releases/download/v3.4.0/xiaohaitu_3.4.0.apk",
-  "changelog": "小海兔 v3.4.0 云端优化版\n- 图片资源迁移至 GitHub + jsDelivr CDN，APK 体积大幅缩减\n- 新增启动自动检查更新功能，发现新版本弹窗提示\n- 支持更新/忽略选项，忽略后本次启动不再提示\n- 加载界面优化：横向进度条、欢迎文字、吉祥物跟随动画\n- 增强应用完整性校验，防止 JS 文件被篡改\n- 远程更新源切换至 GitHub",
+  "versionName": "3.4.1",
+  "versionCode": 30401,
+  "downloadUrl": "https://github.com/ElainaChina/xht-images/releases/download/v3.4.1/xiaohaitu_3.4.1.apk",
+  "changelog": "小海兔 v3.4.1\n1.优化精灵收集状态判定\n2.新增精灵蛋手动录入功能",
   "forceUpdate": false,
-  "publishDate": "2026-10-09",
+  "publishDate": "2026-10-10",
   "integrity": {
-    "app.js": "53cd6b9d0c3a5657a7a42700d2244a6a5ef5d24a8f31fdd5b293199874d5083f",
+    "app.js": "ab7738b1ccc32834ba9470c0301b1d820f2b337420d892f3e5bc3f21f8b28ce2",
     "embedded_spirits.js": "fc977084d6a0a3188563fa4fb41468cdb44957e17b05320581662a5303bcc06f",
     "embedded_evo_chains.js": "45e63709b1e383820b786ccf75bad91dfb5cebfb36fb16b6f36b83b63b615683",
     "embedded_nature_want.js": "314755d137a9f0bfd78294c0dc92621ad7e7dbade0f0b23880966f1b1a3b049f",
@@ -16,6 +16,6 @@
     "index.html": "a02253d3a299077477c9d0f332df9f4d7a784f72e37c4a19a9c5e8661c9321bc",
     "viewer.html": "f1eead7c5cd7bfe3c3bca2d612441c79df7ec39e9e6bbc98fac8f36780a905f1",
     "embedded_images.js": "cb703bf777f9cde5a3c3f37bfcc3b5f488c57d0cfd9913c1fd580998d04929bc",
-    "integrity.js": "45e5eb726ddf19f088d17a1b4a77d777793f831cc44a5f2b967fd141be02c1d2"
+    "integrity.js": "dc1e98f2ef7c5f42513412a16304ac363a7e1ecf29f104ee6201c2e7b8487284"
   }
 }
