@@ -6,16 +6,16 @@
   "forceUpdate": false,
   "publishDate": "2026-10-09",
   "integrity": {
-    "app.js": "b833886e8cda5c90c9807e4b3b8710066c7dd97e7ed57772f02c82f953cacf5e",
+    "app.js": "53cd6b9d0c3a5657a7a42700d2244a6a5ef5d24a8f31fdd5b293199874d5083f",
     "embedded_spirits.js": "fc977084d6a0a3188563fa4fb41468cdb44957e17b05320581662a5303bcc06f",
     "embedded_evo_chains.js": "45e63709b1e383820b786ccf75bad91dfb5cebfb36fb16b6f36b83b63b615683",
     "embedded_nature_want.js": "314755d137a9f0bfd78294c0dc92621ad7e7dbade0f0b23880966f1b1a3b049f",
     "cdn-config.js": "88c71acf857bf0e20419b1f34b05a5d6819ec3469adb349f724d4f45768b3d7f",
     "pcap-parser.js": "292ac14e1f4ccd40bcd6ac1152f173fedc587b172a975bb466ba590ab23020e3",
-    "style.css": "a6a137aed1d454fd3b5f63b03402407a81e01dcddff0101c217ebda1d12de5e7",
-    "index.html": "0c1d520383130db58ade78a8858b35b27bcb9ea759c33aa165680be4a5aaff01",
+    "style.css": "3f45e30a8976d449c5bc38b1b9802723aaba62967ad6276b607d2dd410d230a0",
+    "index.html": "a02253d3a299077477c9d0f332df9f4d7a784f72e37c4a19a9c5e8661c9321bc",
     "viewer.html": "f1eead7c5cd7bfe3c3bca2d612441c79df7ec39e9e6bbc98fac8f36780a905f1",
     "embedded_images.js": "cb703bf777f9cde5a3c3f37bfcc3b5f488c57d0cfd9913c1fd580998d04929bc",
-    "integrity.js": "91f2054bfce9f825b2758151ac360a02c7613df0886fe74bca31d67b7fd2b1af"
+    "integrity.js": "45e5eb726ddf19f088d17a1b4a77d777793f831cc44a5f2b967fd141be02c1d2"
   }
 }
