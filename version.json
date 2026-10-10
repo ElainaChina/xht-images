@@ -6,7 +6,7 @@
   "forceUpdate": false,
   "publishDate": "2026-10-09",
   "integrity": {
-    "app.js": "0479dadb4a1bfe03e2667b89d0a9eef5625b71e230e3b7e4374c2919b173fd61",
+    "app.js": "a61d255e1dc7d461f59693d1e79e7e3afc5d09868e443ba06c0d5a96ecb7b6b4",
     "embedded_spirits.js": "fc977084d6a0a3188563fa4fb41468cdb44957e17b05320581662a5303bcc06f",
     "embedded_evo_chains.js": "45e63709b1e383820b786ccf75bad91dfb5cebfb36fb16b6f36b83b63b615683",
     "embedded_nature_want.js": "314755d137a9f0bfd78294c0dc92621ad7e7dbade0f0b23880966f1b1a3b049f",
@@ -16,6 +16,6 @@
     "index.html": "4d4fa1beaa7f107ebf89da0ef0c4177231319c80519d4ffb6d09f6e89d8b073d",
     "viewer.html": "f1eead7c5cd7bfe3c3bca2d612441c79df7ec39e9e6bbc98fac8f36780a905f1",
     "embedded_images.js": "cb703bf777f9cde5a3c3f37bfcc3b5f488c57d0cfd9913c1fd580998d04929bc",
-    "integrity.js": "80b43a178fa0e360735c1546cbe1e4f424ec49091d2db9ffc9554fe63df59f22"
+    "integrity.js": "c24f01bd1da5c2c361c7c757788f8740b5666c2019b1e24bc6d2237eb3e06c15"
   }
 }
