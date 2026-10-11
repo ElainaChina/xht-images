@@ -2,20 +2,20 @@
   "versionName": "3.4.1",
   "versionCode": 30401,
   "downloadUrl": "https://github.com/ElainaChina/xht-images/releases/download/v3.4.1/xiaohaitu_3.4.1.apk",
-  "changelog": "小海兔 v3.4.1\n1.优化精灵收集状态判定\n2.新增精灵蛋手动录入功能\n3.修复版本更新下载失败（no filesystem plugin）问题",
+  "changelog": "小海兔 v3.4.1\n1.优化精灵收集状态判定\n2.新增精灵蛋手动录入功能\n3.修复版本更新下载失败（no filesystem plugin）问题\n4.精灵蛋模式：卡片显示录入蛋性格（推荐性格加星标）、新增按钮文字、性格筛选统计",
   "forceUpdate": false,
   "publishDate": "2026-10-11",
   "integrity": {
-    "app.js": "d62a4c9ae96c991c2fc669da2b400d9e9afa135ada8b2746c98dfb35be311659",
+    "app.js": "4227bdeaa9ba08f2a0276cf41d9e933ac6650941c5c6414e41777e3b4e7ed3d2",
     "embedded_spirits.js": "fc977084d6a0a3188563fa4fb41468cdb44957e17b05320581662a5303bcc06f",
     "embedded_evo_chains.js": "45e63709b1e383820b786ccf75bad91dfb5cebfb36fb16b6f36b83b63b615683",
     "embedded_nature_want.js": "314755d137a9f0bfd78294c0dc92621ad7e7dbade0f0b23880966f1b1a3b049f",
     "cdn-config.js": "88c71acf857bf0e20419b1f34b05a5d6819ec3469adb349f724d4f45768b3d7f",
     "pcap-parser.js": "292ac14e1f4ccd40bcd6ac1152f173fedc587b172a975bb466ba590ab23020e3",
-    "style.css": "3f45e30a8976d449c5bc38b1b9802723aaba62967ad6276b607d2dd410d230a0",
-    "index.html": "a02253d3a299077477c9d0f332df9f4d7a784f72e37c4a19a9c5e8661c9321bc",
+    "style.css": "28ca6d7964ad4332c86fc5e72885fbb48b851455817740e0c8f27e72ed81b2d5",
+    "index.html": "fcaa735427209b9e954eb5a3492b26dab3ddd86ec59d65feb5fe1673cb56d134",
     "viewer.html": "f1eead7c5cd7bfe3c3bca2d612441c79df7ec39e9e6bbc98fac8f36780a905f1",
     "embedded_images.js": "cb703bf777f9cde5a3c3f37bfcc3b5f488c57d0cfd9913c1fd580998d04929bc",
-    "integrity.js": "7ebedd824434e2e80273224449117e905ec9313f8a43490b7d4ffc59a4e4ea80"
+    "integrity.js": "f73a74014da1ef606355e2693f4f9ef4af49dd75db11241aa1e5b38afae2be28"
   }
 }
