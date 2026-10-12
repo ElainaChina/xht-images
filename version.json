@@ -1,21 +1,21 @@
 {
-  "versionName": "3.4.1",
-  "versionCode": 30401,
-  "downloadUrl": "https://github.com/ElainaChina/xht-images/releases/download/v3.4.1/xiaohaitu_3.4.1.apk",
-  "changelog": "小海兔 v3.4.1\n1.优化精灵收集状态判定\n2.新增精灵蛋手动录入功能\n3.修复版本更新下载失败（no filesystem plugin）问题\n4.精灵蛋模式：卡片显示录入蛋性格、新增按钮文字、性格筛选\n5.精灵蛋性格标签点亮（实心填充）、星标移至左侧并对齐",
+  "versionName": "3.4.2",
+  "versionCode": 30402,
+  "downloadUrl": "https://github.com/ElainaChina/xht-images/releases/download/v3.4.2/xiaohaitu_3.4.2.apk",
+  "changelog": "小海兔 v3.4.2\n1.修复部分精灵数据错误bug\n2.新增待确认精灵蛋批量操作功能\n3.优化待确认精灵蛋的显示，极限蛋会直接显示为红色名称\n4.长按精灵蛋记录将支持编辑(便于进行备注与修改)",
   "forceUpdate": false,
-  "publishDate": "2026-10-11",
+  "publishDate": "2026-10-12",
   "integrity": {
-    "app.js": "89fb72140851676146b9a5142a2f21892e3bd9782f54389f27afc8357b6988eb",
-    "embedded_spirits.js": "fc977084d6a0a3188563fa4fb41468cdb44957e17b05320581662a5303bcc06f",
+    "app.js": "c4855f68215c0a8128d836ecf3af84f01612041b6c1924c895ade8612343d549",
+    "embedded_spirits.js": "e6e9b77749dff139bf5ab3cbeb21f0627eb049acd5fe6ed6cc3963731b0402ad",
     "embedded_evo_chains.js": "45e63709b1e383820b786ccf75bad91dfb5cebfb36fb16b6f36b83b63b615683",
     "embedded_nature_want.js": "314755d137a9f0bfd78294c0dc92621ad7e7dbade0f0b23880966f1b1a3b049f",
     "cdn-config.js": "88c71acf857bf0e20419b1f34b05a5d6819ec3469adb349f724d4f45768b3d7f",
     "pcap-parser.js": "292ac14e1f4ccd40bcd6ac1152f173fedc587b172a975bb466ba590ab23020e3",
-    "style.css": "13ca5cb6469b94edcdabfdc7f33711e4e21e5196aaacd0f7fcd1b0f8a6f475d9",
-    "index.html": "fcaa735427209b9e954eb5a3492b26dab3ddd86ec59d65feb5fe1673cb56d134",
-    "viewer.html": "f1eead7c5cd7bfe3c3bca2d612441c79df7ec39e9e6bbc98fac8f36780a905f1",
+    "style.css": "fa79e818352009f46b04c6c4c53fbd4eff492cbe317afd24b77e591602289918",
+    "index.html": "9e244aea33e335f056af7dc38c57af9487651b45ff2db6f3967b8e787632ba05",
+    "viewer.html": "9ce68f4a5b5003cb77b2d78fc6c1324716ff7b55f1577af9717c1f962cd27a18",
     "embedded_images.js": "cb703bf777f9cde5a3c3f37bfcc3b5f488c57d0cfd9913c1fd580998d04929bc",
-    "integrity.js": "c5382e91936094efe255cf46ca41cf2ebcb87c89fdc3140554b1ab5a93ef3c63"
+    "integrity.js": "26ecbcb293637b46926759cdea3a70522d10037caf71a505cd46c5ab6e198141"
   }
 }
