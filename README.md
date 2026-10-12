@@ -21,6 +21,7 @@
 2.新增待确认精灵蛋批量操作功能
 3.优化待确认精灵蛋的显示，极限蛋会直接显示为红色名称
 4.长按精灵蛋记录将支持编辑(便于进行备注与修改)
+5.修复新版本无法下载问题（多镜像下载链接列表，避开浏览器拦截）
 ```
 
 ---
@@ -52,12 +53,12 @@ CDN 配置文件位于 APK 内 `assets/public/cdn-config.js`，修改 `IMAGE_CDN
 
 ```json
 {
-  "versionName": "3.4.1",          // 版本名（用户可见）
-  "versionCode": 30401,            // 版本号（整数，递增）
+  "versionName": "3.4.2",          // 版本名（用户可见）
+  "versionCode": 30402,            // 版本号（整数，递增）
   "downloadUrl": "...apk",         // APK 下载地址
   "changelog": "...",              // 更新日志（\n 分隔）
   "forceUpdate": false,            // 是否强制更新
-  "publishDate": "2026-10-11",     // 发布日期
+  "publishDate": "2026-10-12",     // 发布日期
   "integrity": {                   // 完整性哈希白名单（SHA-256）
     "app.js": "...",
     "style.css": "...",
@@ -89,7 +90,6 @@ CDN 配置文件位于 APK 内 `assets/public/cdn-config.js`，修改 `IMAGE_CDN
 | `软件基础信息.js` | 自定义基础数据（显示名/图片/性格） | 否 |
 | `manifest.json` | PWA 清单 | 否 |
 | `fontawesome/` | 图标字体库 | 否 |
-| `announce-icon.png` | 公告按钮图标 | 否 |
 
 ---
 
@@ -116,24 +116,40 @@ sha256sum app.js style.css
 ### 3. 重新打包签名 APK
 
 ```bash
-# 复制原 APK
-cp xiaohaitu_3.4.1.apk xiaohaitu_3.4.1_new.apk
+# 方式一：从 apk_work 完整打包（推荐，确保文件完整）
+python3 -c "
+import os, zipfile
+src='apk_work'
+out='xiaohaitu_3.4.2.apk'
+files=[]
+for root, dirs, fns in os.walk(src):
+    for fn in fns:
+        if fn.endswith('.bak') or fn.endswith('.idsig'): continue
+        full=os.path.join(root, fn)
+        rel=os.path.relpath(full, src)
+        if rel.startswith('META-INF'+os.sep): continue
+        files.append((full, rel))
+with zipfile.ZipFile(out, 'w', zipfile.ZIP_DEFLATED) as z:
+    for full, rel in files:
+        z.write(full, rel.replace(os.sep, '/'))
+"
 
-# 删除旧签名
-zip -d xiaohaitu_3.4.1_new.apk "META-INF/*"
-
-# 更新修改的文件到 APK
+# 方式二：从原 APK 更新文件（增量）
+cp xiaohaitu_3.4.1.apk xiaohaitu_3.4.2_new.apk
+zip -d xiaohaitu_3.4.2_new.apk "META-INF/*"
 cd apk_work
-zip /path/to/xiaohaitu_3.4.1_new.apk assets/public/app.js assets/public/style.css assets/public/integrity.js
+zip /path/to/xiaohaitu_3.4.2_new.apk assets/public/app.js assets/public/style.css assets/public/integrity.js
 
-# 签名
-java -jar uber-apk-signer.jar \
-  -a xiaohaitu_3.4.1_new.apk \
+# 签名（apksigner，推荐）
+java -jar apksigner.jar sign \
   --ks xiaohaitu-release.p12 \
-  --ksPass "密钥库密码" \
-  --ksAlias xiaohaitu \
-  --ksKeyPass "密钥密码" \
-  --allowResign --overwrite
+  --ks-pass "pass:密钥库密码" \
+  --ks-key-alias xiaohaitu \
+  --key-pass "pass:密钥密码" \
+  --out xiaohaitu_3.4.2.apk xiaohaitu_3.4.2.apk
+
+# 验证签名
+java -jar apksigner.jar verify xiaohaitu_3.4.2.apk
 ```
 
 ### 4. 推送到 GitHub
@@ -144,7 +160,7 @@ cd xht-images-repo
 # （编辑 version.json 中的哈希和 changelog）
 
 git add version.json
-git commit -m "v3.4.1: 更新说明"
+git commit -m "v3.4.2: 更新说明"
 git push origin main
 ```
 
@@ -153,7 +169,7 @@ git push origin main
 ```bash
 # 删除旧 asset
 ASSET_ID=$(curl -s -H "Authorization: token <TOKEN>" \
-  "https://api.github.com/repos/ElainaChina/xht-images/releases/tags/v3.4.1" \
+  "https://api.github.com/repos/ElainaChina/xht-images/releases/tags/v3.4.2" \
   | python3 -c "import sys,json; print(json.load(sys.stdin)['assets'][0]['id'])")
 curl -X DELETE -H "Authorization: token <TOKEN>" \
   "https://api.github.com/repos/ElainaChina/xht-images/releases/assets/$ASSET_ID"
@@ -162,8 +178,8 @@ curl -X DELETE -H "Authorization: token <TOKEN>" \
 curl -X POST \
   -H "Authorization: token <TOKEN>" \
   -H "Content-Type: application/vnd.android.package-archive" \
-  --data-binary @xiaohaitu_3.4.1.apk \
-  "https://uploads.github.com/repos/ElainaChina/xht-images/releases/<RELEASE_ID>/assets?name=xiaohaitu_3.4.1.apk"
+  --data-binary @xiaohaitu_3.4.2.apk \
+  "https://uploads.github.com/repos/ElainaChina/xht-images/releases/<RELEASE_ID>/assets?name=xiaohaitu_3.4.2.apk"
 ```
 
 ### 6. 刷新 CDN 缓存
@@ -181,6 +197,8 @@ curl "https://purge.jsdelivr.net/gh/ElainaChina/xht-images@main/version.json"
 3. **CDN 缓存延迟**：jsDelivr `@main` 分支标签缓存传播可能需要几分钟，`@<commit-hash>` 路径即时生效。
 4. **图片资源更新**：新增/修改 `spirits/` 或 `expressions/` 中的图片后，需刷新 CDN 缓存。图片文件名须与精灵名完全一致（含括号等特殊字符）。
 5. **自定义数据**：`软件基础信息.js`（CUSTOM_BASE_DATA）用于覆盖内置数据的差异部分，修改后不影响白名单校验。
+6. **版本更新下载**：v3.4.2 起采用「多镜像下载链接列表」方案，点击「更新」弹出包含 jsDelivr CDN/Fastly/Gcore/TestingCF/ghproxy 等多个镜像的列表，用户可选择稳定镜像下载或复制链接到第三方浏览器打开，避开 vivo 等国产浏览器对 GitHub 的安全校验拦截。`downloadUrl` 建议使用 jsDelivr `@main` 形式（国内稳定可达）。
+7. **版本检查地址**：`VERSION_CHECK_URL` 使用 `raw.githubusercontent.com`（无 CDN 缓存延迟），`integrity.js` 的 `REMOTE_INTEGRITY_URL` 同步使用 raw 地址，确保及时获取最新 version.json。
 
 ---
 

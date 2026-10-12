@@ -2,11 +2,11 @@
   "versionName": "3.4.2",
   "versionCode": 30402,
   "downloadUrl": "https://cdn.jsdelivr.net/gh/ElainaChina/xht-images@main/xiaohaitu_3.4.2.apk",
-  "changelog": "小海兔 v3.4.2\n1.修复部分精灵数据错误bug\n2.新增待确认精灵蛋批量操作功能\n3.优化待确认精灵蛋的显示，极限蛋会直接显示为红色名称\n4.长按精灵蛋记录将支持编辑(便于进行备注与修改)",
+  "changelog": "小海兔 v3.4.2\n1.修复部分精灵数据错误bug\n2.新增待确认精灵蛋批量操作功能\n3.优化待确认精灵蛋的显示，极限蛋会直接显示为红色名称\n4.长按精灵蛋记录将支持编辑(便于进行备注与修改)\n5.修复新版本无法下载问题",
   "forceUpdate": false,
   "publishDate": "2026-10-12",
   "integrity": {
-    "app.js": "d0a51dbb8d963eda8bfa033b8a4bb12fa3d85317eded5d24021f4513e74f7251",
+    "app.js": "badc9e72dfd277190e0d8309c3aeefaf17ca3e967e1f2969e2cd33994580a705",
     "embedded_spirits.js": "e6e9b77749dff139bf5ab3cbeb21f0627eb049acd5fe6ed6cc3963731b0402ad",
     "embedded_evo_chains.js": "45e63709b1e383820b786ccf75bad91dfb5cebfb36fb16b6f36b83b63b615683",
     "embedded_nature_want.js": "314755d137a9f0bfd78294c0dc92621ad7e7dbade0f0b23880966f1b1a3b049f",
@@ -16,6 +16,6 @@
     "index.html": "b545af9974f7a7cc2d203bd079edf0b2da8daa468e315d45bc56893a2ae28d1e",
     "viewer.html": "9ce68f4a5b5003cb77b2d78fc6c1324716ff7b55f1577af9717c1f962cd27a18",
     "embedded_images.js": "cb703bf777f9cde5a3c3f37bfcc3b5f488c57d0cfd9913c1fd580998d04929bc",
-    "integrity.js": "161befff67f76525f65e2af69c4b80eb6ecfda1ee5f3279d2e5801a386bd249f"
+    "integrity.js": "7ba46dc56c10576ee7f3a78e41152da053ba4ad4df017e349e24c548de990e7b"
   }
 }
