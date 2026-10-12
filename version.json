@@ -1,7 +1,7 @@
 {
   "versionName": "3.4.2",
   "versionCode": 30402,
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/ElainaChina/xht-images@main/xiaohaitu_3.4.2.apk",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/ElainaChina/xht-images@1098e8b06304dd2a12bf2ab9a002dd558e43373b/xiaohaitu_3.4.2.apk",
   "changelog": "小海兔 v3.4.2\n1.修复部分精灵数据错误bug\n2.新增待确认精灵蛋批量操作功能\n3.优化待确认精灵蛋的显示，极限蛋会直接显示为红色名称\n4.长按精灵蛋记录将支持编辑(便于进行备注与修改)",
   "forceUpdate": false,
   "publishDate": "2026-10-12",
