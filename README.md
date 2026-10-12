@@ -8,21 +8,19 @@
 
 | 项目 | 值 |
 |------|-----|
-| 版本号 | v3.4.1 (versionCode 30401) |
-| 发布日期 | 2026-10-11 |
-| APK 下载 | [Releases v3.4.1](https://github.com/ElainaChina/xht-images/releases/download/v3.4.1/xiaohaitu_3.4.1.apk) |
+| 版本号 | v3.4.2 (versionCode 30402) |
+| 发布日期 | 2026-10-12 |
+| APK 下载 | [Releases v3.4.2](https://github.com/ElainaChina/xht-images/releases/download/v3.4.2/xiaohaitu_3.4.2.apk) |
 | 强制更新 | 否 |
 
 ### 更新日志
 
 ```
-小海兔 v3.4.1
-1.优化精灵收集状态判定
-2.新增精灵蛋手动录入功能
-3.修复版本更新下载失败（no filesystem plugin）问题
-4.精灵蛋模式：卡片显示录入蛋性格、新增按钮文字、性格筛选
-5.精灵蛋性格标签点亮（实心填充）、星标移至左侧并对齐
-6.五角星标记颜色改为红色，增强对比度
+小海兔 v3.4.2
+1.修复部分精灵数据错误bug
+2.新增待确认精灵蛋批量操作功能
+3.优化待确认精灵蛋的显示，极限蛋会直接显示为红色名称
+4.长按精灵蛋记录将支持编辑(便于进行备注与修改)
 ```
 
 ---
@@ -91,6 +89,7 @@ CDN 配置文件位于 APK 内 `assets/public/cdn-config.js`，修改 `IMAGE_CDN
 | `软件基础信息.js` | 自定义基础数据（显示名/图片/性格） | 否 |
 | `manifest.json` | PWA 清单 | 否 |
 | `fontawesome/` | 图标字体库 | 否 |
+| `announce-icon.png` | 公告按钮图标 | 否 |
 
 ---
 
