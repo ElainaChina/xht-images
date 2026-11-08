@@ -1,7 +1,7 @@
 {
   "versionName": "3.4.3",
   "versionCode": 30403,
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/ElainaChina/xht-images@main/xiaohaitu_3.4.3.apk",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/ElainaChina/xht-images@main/apk/xiaohaitu_3.4.3.apk",
   "changelog": "小海兔 v3.4.3\n1.账号页面交互设计\n2.优化生成图片的保存路径\n3.优化精灵图片的加载速度",
   "forceUpdate": false,
   "publishDate": "2026-10-13",
