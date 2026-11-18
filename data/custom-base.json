@@ -1,6 +1,6 @@
 {
  "ver": 2,
- "at": "2026-11-18T10:49:29",
+ "at": "2026-11-18T11:03:43",
  "spirits": [
   {
    "eggId": 3004001,
@@ -11,8 +11,8 @@
    "bci": 3004,
    "hi": 0.54,
    "ha": 0.78,
-   "wi": 5.5,
-   "wa": 7.0,
+   "wi": 55,
+   "wa": 70,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -77,7 +77,7 @@
     "拟人组"
    ],
    "n": "叶冕魔力猫",
-   "bci": 4007,
+   "bci": null,
    "hi": 2.4,
    "ha": 3,
    "wi": 246,
@@ -99,11 +99,11 @@
     "拟人组"
    ],
    "n": "武斗酷猫",
-   "bci": 3158,
-   "hi": 0.1,
-   "ha": 1.0,
-   "wi": 0.01,
-   "wa": 0.1,
+   "bci": null,
+   "hi": 1.48,
+   "ha": 1.75,
+   "wi": 65,
+   "wa": 97,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -140,8 +140,8 @@
    "bci": 3003,
    "stg": 1,
    "eg": [
-    "魔力组",
-    "巨灵组"
+    "巨灵组",
+    "魔力组"
    ],
    "hi": 0.53,
    "ha": 0.71,
@@ -166,8 +166,8 @@
    "eggId": 3003001,
    "stg": 2,
    "eg": [
-    "魔力组",
-    "巨灵组"
+    "巨灵组",
+    "魔力组"
    ],
    "hi": 0.82,
    "ha": 1.1,
@@ -178,8 +178,7 @@
    "ewi": 2.66,
    "ewa": 3.4,
    "img": "spirits/5-火花/焰火/avatar.webp",
-   "art": "spirits/5-火花/焰火/art.webp",
-   "bci": 3032
+   "art": "spirits/5-火花/焰火/art.webp"
   },
   {
    "n": "火神",
@@ -188,8 +187,8 @@
    "bci": 3006,
    "stg": 3,
    "eg": [
-    "魔力组",
-    "巨灵组"
+    "巨灵组",
+    "魔力组"
    ],
    "hi": 1.52,
    "ha": 2.18,
@@ -211,11 +210,11 @@
     "魔力组"
    ],
    "n": "烈火战神",
-   "bci": 4006,
-   "hi": 2.47,
-   "ha": 3.01,
-   "wi": 183.0,
-   "wa": 267.0,
+   "bci": null,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -265,8 +264,7 @@
    "ewi": 0.998,
    "ewa": 1.36,
    "img": "spirits/8-水蓝蓝/波波拉/avatar.webp",
-   "art": "spirits/8-水蓝蓝/波波拉/art.webp",
-   "bci": 3033
+   "art": "spirits/8-水蓝蓝/波波拉/art.webp"
   },
   {
    "eggId": 3002001,
@@ -276,11 +274,11 @@
     "魔力组"
    ],
    "n": "圣水守护",
-   "bci": 4005,
-   "hi": 1.72,
-   "ha": 1.94,
-   "wi": 137.0,
-   "wa": 172.0,
+   "bci": null,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -435,7 +433,7 @@
    "bci": 3036
   },
   {
-   "n": "鸭吉吉(蓬松)",
+   "n": "鸭吉吉(蓬松的样子)",
    "no": 11,
    "eggId": 3012001,
    "bci": 3012,
@@ -468,18 +466,17 @@
     "天空组"
    ],
    "n": "鸭吉吉国王",
-   "hi": 1.65,
-   "ha": 2.07,
-   "wi": 93.7,
-   "wa": 140.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/11-鸭吉吉国王/鸭吉吉国王/avatar.webp",
    "branchOf": null,
-   "art": "spirits/11-鸭吉吉国王/鸭吉吉国王/art.webp",
-   "bci": 4012
+   "art": "spirits/11-鸭吉吉国王/鸭吉吉国王/art.webp"
   },
   {
    "n": "板板壳",
@@ -520,8 +517,7 @@
    "eha": 0.32,
    "ewi": 2.625,
    "ewa": 4.2,
-   "img": "spirits/12-板板壳/咔咔壳/avatar.webp",
-   "bci": 3056
+   "img": "spirits/12-板板壳/咔咔壳/avatar.webp"
   },
   {
    "n": "水泡壳",
@@ -540,8 +536,7 @@
    "ewi": 2.625,
    "ewa": 4.2,
    "img": "spirits/12-板板壳/水泡壳/avatar.webp",
-   "art": "spirits/12-板板壳/水泡壳/art.webp",
-   "bci": 3057
+   "art": "spirits/12-板板壳/水泡壳/art.webp"
   },
   {
    "n": "锥尾羊",
@@ -583,8 +578,7 @@
    "ewi": 4.655,
    "ewa": 6.6,
    "img": "spirits/15-锥尾羊/铃兰羊/avatar.webp",
-   "art": "spirits/15-锥尾羊/铃兰羊/art.webp",
-   "bci": 3046
+   "art": "spirits/15-锥尾羊/铃兰羊/art.webp"
   },
   {
    "n": "花影羚羊",
@@ -603,8 +597,7 @@
    "ewi": 4.655,
    "ewa": 6.6,
    "img": "spirits/15-锥尾羊/花影羚羊/avatar.webp",
-   "art": "spirits/15-锥尾羊/花影羚羊/art.webp",
-   "bci": 3047
+   "art": "spirits/15-锥尾羊/花影羚羊/art.webp"
   },
   {
    "n": "雪绒鸟(夏天)",
@@ -750,8 +743,8 @@
    "bci": 3028,
    "hi": 0.62,
    "ha": 0.71,
-   "wi": 89.2,
-   "wa": 127,
+   "wi": 8.92,
+   "wa": 12.7,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -805,17 +798,16 @@
     "天空组"
    ],
    "n": "霜翼领主",
-   "hi": 2.0,
-   "ha": 2.68,
-   "wi": 59.0,
-   "wa": 71.09,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/20-霜翼领主/霜翼领主/avatar.webp",
-   "branchOf": null,
-   "bci": 4074
+   "branchOf": null
   },
   {
    "n": "小灵菇",
@@ -823,8 +815,8 @@
    "eggId": 3145001,
    "stg": 1,
    "eg": [
-    "植物组",
-    "魔力组"
+    "魔力组",
+    "植物组"
    ],
    "hi": 0.43,
    "ha": 0.61,
@@ -847,8 +839,8 @@
    "eggId": 3145001,
    "stg": 2,
    "eg": [
-    "植物组",
-    "魔力组"
+    "魔力组",
+    "植物组"
    ],
    "hi": 0.64,
    "ha": 0.92,
@@ -859,8 +851,7 @@
    "ewi": 1.89,
    "ewa": 2.84,
    "img": "spirits/21-小灵菇/幻灵菇/avatar.webp",
-   "art": "spirits/21-小灵菇/幻灵菇/art.webp",
-   "bci": 3146
+   "art": "spirits/21-小灵菇/幻灵菇/art.webp"
   },
   {
    "n": "幻影灵菇",
@@ -868,8 +859,8 @@
    "eggId": 3145001,
    "stg": 3,
    "eg": [
-    "植物组",
-    "魔力组"
+    "魔力组",
+    "植物组"
    ],
    "hi": 0.92,
    "ha": 1.32,
@@ -880,8 +871,7 @@
    "ewi": 1.89,
    "ewa": 2.84,
    "img": "spirits/21-小灵菇/幻影灵菇/avatar.webp",
-   "art": "spirits/21-小灵菇/幻影灵菇/art.webp",
-   "bci": 3147
+   "art": "spirits/21-小灵菇/幻影灵菇/art.webp"
   },
   {
    "n": "石肤蜥",
@@ -890,7 +880,7 @@
    "stg": 1,
    "eg": [
     "两栖组",
-    "岩石组"
+    "大地组"
    ],
    "hi": 0.49,
    "ha": 0.7,
@@ -912,7 +902,7 @@
    "stg": 2,
    "eg": [
     "两栖组",
-    "岩石组"
+    "大地组"
    ],
    "hi": 0.67,
    "ha": 0.96,
@@ -922,8 +912,7 @@
    "eha": 0.29,
    "ewi": 7.35,
    "ewa": 13.6,
-   "img": "spirits/24-石肤蜥/石刺蜥/avatar.webp",
-   "bci": 3107
+   "img": "spirits/24-石肤蜥/石刺蜥/avatar.webp"
   },
   {
    "n": "石冠王蜥",
@@ -932,7 +921,7 @@
    "stg": 3,
    "eg": [
     "两栖组",
-    "岩石组"
+    "大地组"
    ],
    "hi": 0.94,
    "ha": 1.18,
@@ -942,8 +931,7 @@
    "eha": 0.29,
    "ewi": 7.35,
    "ewa": 13.6,
-   "img": "spirits/24-石肤蜥/石冠王蜥/avatar.webp",
-   "bci": 3108
+   "img": "spirits/24-石肤蜥/石冠王蜥/avatar.webp"
   },
   {
    "n": "布是石",
@@ -951,8 +939,8 @@
    "eggId": 3103001,
    "stg": 1,
    "eg": [
-    "岩石组",
-    "巨灵组"
+    "巨灵组",
+    "大地组"
    ],
    "hi": 0.42,
    "ha": 0.6,
@@ -975,8 +963,8 @@
    "eggId": 3103001,
    "stg": 2,
    "eg": [
-    "岩石组",
-    "巨灵组"
+    "巨灵组",
+    "大地组"
    ],
    "hi": 0.93,
    "ha": 1.34,
@@ -987,8 +975,7 @@
    "ewi": 6.475,
    "ewa": 13,
    "img": "spirits/27-布是石/布是岩/avatar.webp",
-   "art": "spirits/27-布是石/布是岩/art.webp",
-   "bci": 3104
+   "art": "spirits/27-布是石/布是岩/art.webp"
   },
   {
    "n": "布克棱岩",
@@ -996,8 +983,8 @@
    "eggId": 3103001,
    "stg": 3,
    "eg": [
-    "岩石组",
-    "巨灵组"
+    "巨灵组",
+    "大地组"
    ],
    "hi": 1.75,
    "ha": 2.5,
@@ -1008,8 +995,7 @@
    "ewi": 6.475,
    "ewa": 13,
    "img": "spirits/27-布是石/布克棱岩/avatar.webp",
-   "art": "spirits/27-布是石/布克棱岩/art.webp",
-   "bci": 3105
+   "art": "spirits/27-布是石/布克棱岩/art.webp"
   },
   {
    "eggId": 3103001,
@@ -1020,18 +1006,17 @@
     "大地组"
    ],
    "n": "迷嶂布莱克",
-   "hi": 2.63,
-   "ha": 3.3,
-   "wi": 668.5,
-   "wa": 870.4,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/27-布是石/迷嶂布莱克/avatar.webp",
    "branchOf": null,
-   "art": "spirits/27-布是石/迷嶂布莱克/art.webp",
-   "bci": 4072
+   "art": "spirits/27-布是石/迷嶂布莱克/art.webp"
   },
   {
    "n": "恶魔叮",
@@ -1074,8 +1059,7 @@
    "ewi": 1.26,
    "ewa": 1.64,
    "img": "spirits/30-恶魔叮/叮叮恶魔/avatar.webp",
-   "art": "spirits/30-恶魔叮/叮叮恶魔/art.webp",
-   "bci": 3039
+   "art": "spirits/30-恶魔叮/叮叮恶魔/art.webp"
   },
   {
    "eggId": 3010001,
@@ -1085,11 +1069,11 @@
     "妖精组"
    ],
    "n": "恶魔男爵",
-   "bci": 5055,
-   "hi": 1.35,
-   "ha": 1.6,
-   "wi": 40.0,
-   "wa": 60.0,
+   "bci": null,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -1139,8 +1123,7 @@
    "ewi": 1.05,
    "ewa": 1.8,
    "img": "spirits/32-毛毛/爬爬/avatar.webp",
-   "art": "spirits/32-毛毛/爬爬/art.webp",
-   "bci": 3137
+   "art": "spirits/32-毛毛/爬爬/art.webp"
   },
   {
    "n": "化蝶",
@@ -1160,8 +1143,7 @@
    "ewi": 1.05,
    "ewa": 1.8,
    "img": "spirits/32-毛毛/化蝶/avatar.webp",
-   "art": "spirits/32-毛毛/化蝶/art.webp",
-   "bci": 3138
+   "art": "spirits/32-毛毛/化蝶/art.webp"
   },
   {
    "eggId": 3064001,
@@ -1172,18 +1154,17 @@
     "妖精组"
    ],
    "n": "幻影荆棘",
-   "hi": 1.01,
-   "ha": 1.45,
-   "wi": 55.7,
-   "wa": 72.7,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/35-幽影树/幻影荆棘/avatar.webp",
    "branchOf": null,
-   "art": "spirits/35-幽影树/幻影荆棘/art.webp",
-   "bci": 4064
+   "art": "spirits/35-幽影树/幻影荆棘/art.webp"
   },
   {
    "n": "幽影树",
@@ -1250,8 +1231,7 @@
    "ewi": 2.345,
    "ewa": 3,
    "img": "spirits/36-小鼠獭/燕尾獭/avatar.webp",
-   "art": "spirits/36-小鼠獭/燕尾獭/art.webp",
-   "bci": 3316
+   "art": "spirits/36-小鼠獭/燕尾獭/art.webp"
   },
   {
    "n": "卷胡巨獭",
@@ -1271,8 +1251,7 @@
    "ewi": 2.345,
    "ewa": 3,
    "img": "spirits/36-小鼠獭/卷胡巨獭/avatar.webp",
-   "art": "spirits/36-小鼠獭/卷胡巨獭/art.webp",
-   "bci": 3317
+   "art": "spirits/36-小鼠獭/卷胡巨獭/art.webp"
   },
   {
    "n": "矿晶虫",
@@ -1280,8 +1259,8 @@
    "eggId": 3307001,
    "stg": 1,
    "eg": [
-    "软体组",
-    "岩石组"
+    "大地组",
+    "软体组"
    ],
    "hi": 0.54,
    "ha": 0.77,
@@ -1304,8 +1283,8 @@
    "eggId": 3307001,
    "stg": 2,
    "eg": [
-    "软体组",
-    "岩石组"
+    "大地组",
+    "软体组"
    ],
    "hi": 1.03,
    "ha": 1.35,
@@ -1316,8 +1295,7 @@
    "ewi": 2.03,
    "ewa": 2.52,
    "img": "spirits/39-矿晶虫/晶石蜗/avatar.webp",
-   "art": "spirits/39-矿晶虫/晶石蜗/art.webp",
-   "bci": 3308
+   "art": "spirits/39-矿晶虫/晶石蜗/art.webp"
   },
   {
    "eggId": 3307001,
@@ -1328,18 +1306,17 @@
     "软体组"
    ],
    "n": "钻石蜗",
-   "hi": 1.69,
-   "ha": 1.91,
-   "wi": 84.4,
-   "wa": 110.2,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/39-矿晶虫/钻石蜗/avatar.webp",
    "branchOf": null,
-   "art": "spirits/39-矿晶虫/钻石蜗/art.webp",
-   "bci": 4079
+   "art": "spirits/39-矿晶虫/钻石蜗/art.webp"
   },
   {
    "n": "奇丽草",
@@ -1381,8 +1358,7 @@
    "ewi": 1.435,
    "ewa": 2.28,
    "img": "spirits/41-奇丽草/奇丽叶/avatar.webp",
-   "art": "spirits/41-奇丽草/奇丽叶/art.webp",
-   "bci": 3030
+   "art": "spirits/41-奇丽草/奇丽叶/art.webp"
   },
   {
    "eggId": 3029001,
@@ -1392,18 +1368,17 @@
     "植物组"
    ],
    "n": "奇丽果",
-   "hi": 1.68,
-   "ha": 2.2,
-   "wi": 72.4,
-   "wa": 105.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/41-奇丽草/奇丽果/avatar.webp",
    "branchOf": null,
-   "art": "spirits/41-奇丽草/奇丽果/art.webp",
-   "bci": 4022
+   "art": "spirits/41-奇丽草/奇丽果/art.webp"
   },
   {
    "n": "奇丽花",
@@ -1422,8 +1397,7 @@
    "ewi": 1.435,
    "ewa": 2.28,
    "img": "spirits/41-奇丽草/奇丽花/avatar.webp",
-   "art": "spirits/41-奇丽草/奇丽花/art.webp",
-   "bci": 3031
+   "art": "spirits/41-奇丽草/奇丽花/art.webp"
   },
   {
    "n": "冰丢丢",
@@ -1489,7 +1463,7 @@
    "bci": 3288
   },
   {
-   "n": "草丢丢",
+   "n": "丢丢(草地附近的样子)",
    "no": 44,
    "eggId": 3040001,
    "stg": 1,
@@ -1550,8 +1524,7 @@
    "ewi": 4.76,
    "ewa": 7,
    "img": "spirits/47-护主犬/音速犬/avatar.webp",
-   "art": "spirits/47-护主犬/音速犬/art.webp",
-   "bci": 3071
+   "art": "spirits/47-护主犬/音速犬/art.webp"
   },
   {
    "eggId": 3070001,
@@ -1561,18 +1534,17 @@
     "动物组"
    ],
    "n": "风暴战犬",
-   "hi": 1.75,
-   "ha": 1.91,
-   "wi": 61.03,
-   "wa": 79.06,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/47-护主犬/风暴战犬/avatar.webp",
    "branchOf": null,
-   "art": "spirits/47-护主犬/风暴战犬/art.webp",
-   "bci": 4078
+   "art": "spirits/47-护主犬/风暴战犬/art.webp"
   },
   {
    "n": "绿耳松鼠",
@@ -1613,8 +1585,7 @@
    "ewi": 1.225,
    "ewa": 2.4,
    "img": "spirits/49-绿耳松鼠/抱枕松鼠/avatar.webp",
-   "art": "spirits/49-绿耳松鼠/抱枕松鼠/art.webp",
-   "bci": 3099
+   "art": "spirits/49-绿耳松鼠/抱枕松鼠/art.webp"
   },
   {
    "n": "蹦床松鼠",
@@ -1633,8 +1604,7 @@
    "ewi": 1.225,
    "ewa": 2.4,
    "img": "spirits/49-绿耳松鼠/蹦床松鼠/avatar.webp",
-   "art": "spirits/49-绿耳松鼠/蹦床松鼠/art.webp",
-   "bci": 3100
+   "art": "spirits/49-绿耳松鼠/蹦床松鼠/art.webp"
   },
   {
    "n": "嘟嘟煲",
@@ -1642,8 +1612,8 @@
    "eggId": 3367001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "岩石组"
+    "大地组",
+    "妖精组"
    ],
    "hi": 0.65,
    "ha": 0.8,
@@ -1665,8 +1635,8 @@
    "eggId": 3367001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "岩石组"
+    "大地组",
+    "妖精组"
    ],
    "hi": 0.64,
    "ha": 0.91,
@@ -1677,8 +1647,7 @@
    "ewi": 16.975,
    "ewa": 22.4,
    "img": "spirits/52-嘟嘟煲/嘟嘟锅/avatar.webp",
-   "art": "spirits/52-嘟嘟煲/嘟嘟锅/art.webp",
-   "bci": 3368
+   "art": "spirits/52-嘟嘟煲/嘟嘟锅/art.webp"
   },
   {
    "n": "小灵面",
@@ -1719,8 +1688,7 @@
    "ewi": 0.035,
    "ewa": 0.06,
    "img": "spirits/54-小灵面/暗影灵面/avatar.webp",
-   "art": "spirits/54-小灵面/暗影灵面/art.webp",
-   "bci": 3061
+   "art": "spirits/54-小灵面/暗影灵面/art.webp"
   },
   {
    "n": "幽冥眼",
@@ -1739,15 +1707,17 @@
    "ewi": 0.035,
    "ewa": 0.06,
    "img": "spirits/54-小灵面/幽冥眼/avatar.webp",
-   "art": "spirits/54-小灵面/幽冥眼/art.webp",
-   "bci": 3405
+   "art": "spirits/54-小灵面/幽冥眼/art.webp"
   },
   {
-   "n": "梦游(旧睡衣)",
+   "n": "梦游(穿旧睡衣的样子)",
    "no": 57,
    "eggId": 3438001,
    "stg": 1,
-   "eg": [],
+   "eg": [
+    "魔力组",
+    "妖精组"
+   ],
    "hi": 0.5,
    "ha": 0.6,
    "wi": 0.6,
@@ -1850,8 +1820,7 @@
    "ewi": 4.34,
    "ewa": 6.32,
    "img": "spirits/60-伏地兽/贪食鼹/avatar.webp",
-   "art": "spirits/60-伏地兽/贪食鼹/art.webp",
-   "bci": 3166
+   "art": "spirits/60-伏地兽/贪食鼹/art.webp"
   },
   {
    "n": "巨噬针鼹",
@@ -1870,8 +1839,7 @@
    "ewi": 4.34,
    "ewa": 6.32,
    "img": "spirits/60-伏地兽/巨噬针鼹/avatar.webp",
-   "art": "spirits/60-伏地兽/巨噬针鼹/art.webp",
-   "bci": 3167
+   "art": "spirits/60-伏地兽/巨噬针鼹/art.webp"
   },
   {
    "n": "蹦蹦种子(彩玉球)",
@@ -1899,7 +1867,9 @@
    "eggId": 3017001,
    "bci": 3017,
    "stg": 1,
-   "eg": [],
+   "eg": [
+    "植物组"
+   ],
    "hi": 0.46,
    "ha": 0.67,
    "wi": 4.3,
@@ -1917,13 +1887,15 @@
    "eggId": 3017001,
    "no": 64,
    "stg": 2,
-   "eg": [],
+   "eg": [
+    "植物组"
+   ],
    "n": "蹦蹦草(海神球形态)",
    "bci": 3018,
    "hi": 0.59,
    "ha": 0.85,
-   "wi": 343,
-   "wa": 429,
+   "wi": 34.3,
+   "wa": 42.9,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -1935,13 +1907,15 @@
    "eggId": 3017001,
    "no": 65,
    "stg": 3,
-   "eg": [],
+   "eg": [
+    "植物组"
+   ],
    "n": "蹦蹦花(海神球形态)",
    "bci": 3019,
-   "hi": 0.65,
-   "ha": 1.33,
-   "wi": 750,
-   "wa": 860,
+   "hi": 1.33,
+   "ha": 1.9,
+   "wi": 75.0,
+   "wa": 86.0,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -1989,8 +1963,7 @@
    "ewi": 2.51,
    "ewa": 3.64,
    "img": "spirits/66-电咩咩/粉咩咩/avatar.webp",
-   "art": "spirits/66-电咩咩/粉咩咩/art.webp",
-   "bci": 3191
+   "art": "spirits/66-电咩咩/粉咩咩/art.webp"
   },
   {
    "n": "电球咩咩",
@@ -2009,8 +1982,7 @@
    "ewi": 2.51,
    "ewa": 3.64,
    "img": "spirits/66-电咩咩/电球咩咩/avatar.webp",
-   "art": "spirits/66-电咩咩/电球咩咩/art.webp",
-   "bci": 3192
+   "art": "spirits/66-电咩咩/电球咩咩/art.webp"
   },
   {
    "n": "蒲公英",
@@ -2018,8 +1990,8 @@
    "eggId": 3034001,
    "stg": 1,
    "eg": [
-    "植物组",
-    "天空组"
+    "天空组",
+    "植物组"
    ],
    "hi": 0.3,
    "ha": 0.5,
@@ -2042,8 +2014,8 @@
    "bci": 3027,
    "stg": 2,
    "eg": [
-    "植物组",
-    "天空组"
+    "天空组",
+    "植物组"
    ],
    "hi": 0.7,
    "ha": 1,
@@ -2096,8 +2068,7 @@
    "ewi": 1.155,
    "ewa": 1.68,
    "img": "spirits/71-伊贝儿/伊贝粉粉/avatar.webp",
-   "art": "spirits/71-伊贝儿/伊贝粉粉/art.webp",
-   "bci": 3044
+   "art": "spirits/71-伊贝儿/伊贝粉粉/art.webp"
   },
   {
    "n": "白发懒人",
@@ -2142,8 +2113,7 @@
    "ewi": 6.825,
    "ewa": 9.4,
    "img": "spirits/73-白发懒人/动力猿/avatar.webp",
-   "art": "spirits/73-白发懒人/动力猿/art.webp",
-   "bci": 3101
+   "art": "spirits/73-白发懒人/动力猿/art.webp"
   },
   {
    "n": "瞌睡王",
@@ -2163,8 +2133,7 @@
    "ewi": 6.825,
    "ewa": 9.4,
    "img": "spirits/73-白发懒人/瞌睡王/avatar.webp",
-   "art": "spirits/73-白发懒人/瞌睡王/art.webp",
-   "bci": 3102
+   "art": "spirits/73-白发懒人/瞌睡王/art.webp"
   },
   {
    "n": "海盔虫",
@@ -2172,8 +2141,8 @@
    "eggId": 3330001,
    "stg": 1,
    "eg": [
-    "海洋组",
-    "巨灵组"
+    "巨灵组",
+    "海洋组"
    ],
    "hi": 0.55,
    "ha": 0.7,
@@ -2195,8 +2164,8 @@
    "eggId": 3330001,
    "stg": 2,
    "eg": [
-    "海洋组",
-    "巨灵组"
+    "巨灵组",
+    "海洋组"
    ],
    "hi": 0.83,
    "ha": 1.19,
@@ -2207,8 +2176,7 @@
    "ewi": 2.59,
    "ewa": 3.44,
    "img": "spirits/76-海盔虫/刺盔虫/avatar.webp",
-   "art": "spirits/76-海盔虫/刺盔虫/art.webp",
-   "bci": 3331
+   "art": "spirits/76-海盔虫/刺盔虫/art.webp"
   },
   {
    "eggId": 3330001,
@@ -2216,17 +2184,16 @@
    "stg": 4,
    "eg": [],
    "n": "千棘海针",
-   "hi": 1.73,
-   "ha": 2.14,
-   "wi": 192.5,
-   "wa": 252.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/76-海盔虫/千棘海针/avatar.webp",
-   "branchOf": null,
-   "bci": 4020
+   "branchOf": null
   },
   {
    "n": "千棘盔",
@@ -2234,8 +2201,8 @@
    "eggId": 3330001,
    "stg": 3,
    "eg": [
-    "海洋组",
-    "巨灵组"
+    "巨灵组",
+    "海洋组"
    ],
    "hi": 1.11,
    "ha": 1.33,
@@ -2246,8 +2213,7 @@
    "ewi": 2.59,
    "ewa": 3.44,
    "img": "spirits/76-海盔虫/千棘盔/avatar.webp",
-   "art": "spirits/76-海盔虫/千棘盔/art.webp",
-   "bci": 3332
+   "art": "spirits/76-海盔虫/千棘盔/art.webp"
   },
   {
    "n": "菊花梨",
@@ -2323,8 +2289,8 @@
    "eggId": 3058001,
    "stg": 1,
    "eg": [
-    "昆虫组",
-    "天空组"
+    "天空组",
+    "昆虫组"
    ],
    "hi": 0.37,
    "ha": 0.52,
@@ -2348,8 +2314,8 @@
    "eggId": 3058001,
    "stg": 2,
    "eg": [
-    "昆虫组",
-    "天空组"
+    "天空组",
+    "昆虫组"
    ],
    "hi": 0.81,
    "ha": 1.16,
@@ -2360,8 +2326,7 @@
    "ewi": 1.4,
    "ewa": 2.2,
    "img": "spirits/82-一窝蜂/黄蜂后/avatar.webp",
-   "art": "spirits/82-一窝蜂/黄蜂后/art.webp",
-   "bci": 3059
+   "art": "spirits/82-一窝蜂/黄蜂后/art.webp"
   },
   {
    "eggId": 3058001,
@@ -2372,18 +2337,17 @@
     "昆虫组"
    ],
    "n": "女王蜂",
-   "hi": 1.54,
-   "ha": 2.12,
-   "wi": 98.5,
-   "wa": 137.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/82-一窝蜂/女王蜂/avatar.webp",
    "branchOf": null,
-   "art": "spirits/82-一窝蜂/女王蜂/art.webp",
-   "bci": 4021
+   "art": "spirits/82-一窝蜂/女王蜂/art.webp"
   },
   {
    "n": "花魁蜂后",
@@ -2391,8 +2355,8 @@
    "eggId": 3058001,
    "stg": 3,
    "eg": [
-    "昆虫组",
-    "天空组"
+    "天空组",
+    "昆虫组"
    ],
    "hi": 0.83,
    "ha": 1.19,
@@ -2402,8 +2366,7 @@
    "eha": 0.22,
    "ewi": 1.4,
    "ewa": 2.2,
-   "img": "spirits/82-一窝蜂/花魁蜂后/avatar.webp",
-   "bci": 3157
+   "img": "spirits/82-一窝蜂/花魁蜂后/avatar.webp"
   },
   {
    "n": "小夜",
@@ -2446,8 +2409,7 @@
    "eha": 0.3,
    "ewi": 1.575,
    "ewa": 3.04,
-   "art": "spirits/85-小夜/紫夜/art.webp",
-   "bci": 3143
+   "art": "spirits/85-小夜/紫夜/art.webp"
   },
   {
    "n": "朔夜伊芙",
@@ -2466,8 +2428,7 @@
    "eha": 0.3,
    "ewi": 1.575,
    "ewa": 3.04,
-   "art": "spirits/85-小夜/朔夜伊芙/art.webp",
-   "bci": 3144
+   "art": "spirits/85-小夜/朔夜伊芙/art.webp"
   },
   {
    "n": "乖乖鹄",
@@ -2512,8 +2473,7 @@
    "ewi": 1.47,
    "ewa": 2.2,
    "img": "spirits/88-乖乖鹄/蓝珠天鹅/avatar.webp",
-   "art": "spirits/88-乖乖鹄/蓝珠天鹅/art.webp",
-   "bci": 3345
+   "art": "spirits/88-乖乖鹄/蓝珠天鹅/art.webp"
   },
   {
    "n": "翠顶夫人",
@@ -2533,12 +2493,11 @@
    "ewi": 1.47,
    "ewa": 2.2,
    "img": "spirits/88-乖乖鹄/翠顶夫人/avatar.webp",
-   "art": "spirits/88-乖乖鹄/翠顶夫人/art.webp",
-   "bci": 3346
+   "art": "spirits/88-乖乖鹄/翠顶夫人/art.webp"
   },
   {
    "n": "黑羽夫人",
-   "no": 91,
+   "no": 90,
    "eggId": 3344001,
    "stg": 3,
    "eg": [
@@ -2554,8 +2513,7 @@
    "ewi": 1.47,
    "ewa": 2.2,
    "img": "spirits/88-乖乖鹄/黑羽夫人/avatar.webp",
-   "art": "spirits/88-乖乖鹄/黑羽夫人/art.webp",
-   "bci": 3571
+   "art": "spirits/88-乖乖鹄/黑羽夫人/art.webp"
   },
   {
    "n": "锤头鹳",
@@ -2589,8 +2547,8 @@
    "bci": 3026,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "拟人组"
+    "拟人组",
+    "妖精组"
    ],
    "hi": 0.71,
    "ha": 1.01,
@@ -2613,8 +2571,8 @@
    "eggId": 3026001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "拟人组"
+    "拟人组",
+    "妖精组"
    ],
    "hi": 0.74,
    "ha": 1.05,
@@ -2625,8 +2583,7 @@
    "ewi": 3.255,
    "ewa": 4.12,
    "img": "spirits/93-绿草精灵/魔草巫灵/avatar.webp",
-   "art": "spirits/93-绿草精灵/魔草巫灵/art.webp",
-   "bci": 3035
+   "art": "spirits/93-绿草精灵/魔草巫灵/art.webp"
   },
   {
    "n": "记忆石",
@@ -2634,7 +2591,7 @@
    "eggId": 3050001,
    "stg": 1,
    "eg": [
-    "岩石组"
+    "大地组"
    ],
    "hi": 0.97,
    "ha": 1.39,
@@ -2691,8 +2648,7 @@
    "ewi": 0.917,
    "ewa": 1.56,
    "img": "spirits/96-咔咔羽毛/咔咔雀/avatar.webp",
-   "art": "spirits/96-咔咔羽毛/咔咔雀/art.webp",
-   "bci": 3176
+   "art": "spirits/96-咔咔羽毛/咔咔雀/art.webp"
   },
   {
    "n": "咔咔鸟",
@@ -2711,8 +2667,7 @@
    "ewi": 0.917,
    "ewa": 1.56,
    "img": "spirits/96-咔咔羽毛/咔咔鸟/avatar.webp",
-   "art": "spirits/96-咔咔羽毛/咔咔鸟/art.webp",
-   "bci": 3177
+   "art": "spirits/96-咔咔羽毛/咔咔鸟/art.webp"
   },
   {
    "n": "小草虫",
@@ -2720,8 +2675,8 @@
    "eggId": 3139001,
    "stg": 1,
    "eg": [
-    "昆虫组",
-    "拟人组"
+    "拟人组",
+    "昆虫组"
    ],
    "hi": 0.47,
    "ha": 0.67,
@@ -2743,8 +2698,8 @@
    "eggId": 3139001,
    "stg": 2,
    "eg": [
-    "昆虫组",
-    "拟人组"
+    "拟人组",
+    "昆虫组"
    ],
    "hi": 0.6,
    "ha": 0.87,
@@ -2755,8 +2710,7 @@
    "ewi": 0.735,
    "ewa": 1.36,
    "img": "spirits/99-小草虫/草衣虫/avatar.webp",
-   "art": "spirits/99-小草虫/草衣虫/art.webp",
-   "bci": 3140
+   "art": "spirits/99-小草虫/草衣虫/art.webp"
   },
   {
    "n": "花衣蝶",
@@ -2764,8 +2718,8 @@
    "eggId": 3139001,
    "stg": 3,
    "eg": [
-    "昆虫组",
-    "拟人组"
+    "拟人组",
+    "昆虫组"
    ],
    "hi": 0.92,
    "ha": 1.32,
@@ -2776,8 +2730,7 @@
    "ewi": 0.735,
    "ewa": 1.36,
    "img": "spirits/99-小草虫/花衣蝶/avatar.webp",
-   "art": "spirits/99-小草虫/花衣蝶/art.webp",
-   "bci": 3141
+   "art": "spirits/99-小草虫/花衣蝶/art.webp"
   },
   {
    "n": "绿翼鸟",
@@ -2821,8 +2774,7 @@
    "ewi": 1.26,
    "ewa": 1.92,
    "img": "spirits/102-绿翼鸟/魔翼鸟/avatar.webp",
-   "art": "spirits/102-绿翼鸟/魔翼鸟/art.webp",
-   "bci": 3277
+   "art": "spirits/102-绿翼鸟/魔翼鸟/art.webp"
   },
   {
    "n": "魔眷鸟",
@@ -2842,8 +2794,7 @@
    "ewi": 1.26,
    "ewa": 1.92,
    "img": "spirits/102-绿翼鸟/魔眷鸟/avatar.webp",
-   "art": "spirits/102-绿翼鸟/魔眷鸟/art.webp",
-   "bci": 3278
+   "art": "spirits/102-绿翼鸟/魔眷鸟/art.webp"
   },
   {
    "n": "阿米亚特",
@@ -2852,8 +2803,8 @@
    "bci": 3014,
    "stg": 1,
    "eg": [
-    "岩石组",
-    "巨灵组"
+    "巨灵组",
+    "大地组"
    ],
    "hi": 0.57,
    "ha": 0.79,
@@ -2876,8 +2827,8 @@
    "bci": 3015,
    "stg": 2,
    "eg": [
-    "岩石组",
-    "巨灵组"
+    "巨灵组",
+    "大地组"
    ],
    "hi": 0.78,
    "ha": 1.12,
@@ -2895,15 +2846,15 @@
    "no": 107,
    "stg": 4,
    "eg": [
-    "岩石组",
-    "巨灵组"
+    "巨灵组",
+    "大地组"
    ],
    "n": "深渊罗隐",
-   "bci": 5053,
-   "hi": 2.4,
-   "ha": 3.1,
-   "wi": 320.0,
-   "wa": 610.0,
+   "bci": null,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -2919,8 +2870,8 @@
    "bci": 3016,
    "stg": 3,
    "eg": [
-    "岩石组",
-    "巨灵组"
+    "巨灵组",
+    "大地组"
    ],
    "hi": 1.48,
    "ha": 2.12,
@@ -2939,8 +2890,8 @@
    "eggId": 3115001,
    "stg": 1,
    "eg": [
-    "海洋组",
-    "天空组"
+    "天空组",
+    "海洋组"
    ],
    "hi": 0.41,
    "ha": 0.59,
@@ -2962,8 +2913,8 @@
    "eggId": 3115001,
    "stg": 2,
    "eg": [
-    "海洋组",
-    "天空组"
+    "天空组",
+    "海洋组"
    ],
    "hi": 0.81,
    "ha": 1.16,
@@ -2973,8 +2924,7 @@
    "eha": 0.24,
    "ewi": 4.575,
    "ewa": 6.72,
-   "img": "spirits/108-风铃鲨/蓝蝶鲨/avatar.webp",
-   "bci": 3116
+   "img": "spirits/108-风铃鲨/蓝蝶鲨/avatar.webp"
   },
   {
    "n": "彩蝶鲨",
@@ -2982,8 +2932,8 @@
    "eggId": 3115001,
    "stg": 3,
    "eg": [
-    "海洋组",
-    "天空组"
+    "天空组",
+    "海洋组"
    ],
    "hi": 1.18,
    "ha": 1.68,
@@ -2993,8 +2943,7 @@
    "eha": 0.24,
    "ewi": 4.575,
    "ewa": 6.72,
-   "img": "spirits/108-风铃鲨/彩蝶鲨/avatar.webp",
-   "bci": 3117
+   "img": "spirits/108-风铃鲨/彩蝶鲨/avatar.webp"
   },
   {
    "eggId": 3115001,
@@ -3005,17 +2954,16 @@
     "海洋组"
    ],
    "n": "神谕鲨",
-   "hi": 1.79,
-   "ha": 2.26,
-   "wi": 107.6,
-   "wa": 165.5,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/108-风铃鲨/神谕鲨/avatar.webp",
-   "branchOf": null,
-   "bci": 4073
+   "branchOf": null
   },
   {
    "n": "石石",
@@ -3023,8 +2971,8 @@
    "eggId": 3170001,
    "stg": 1,
    "eg": [
-    "岩石组",
-    "魔力组"
+    "魔力组",
+    "大地组"
    ],
    "hi": 0.35,
    "ha": 0.5,
@@ -3047,8 +2995,8 @@
    "eggId": 3170001,
    "stg": 2,
    "eg": [
-    "岩石组",
-    "魔力组"
+    "魔力组",
+    "大地组"
    ],
    "hi": 1.95,
    "ha": 2.3,
@@ -3058,8 +3006,7 @@
    "eha": 0.21,
    "ewi": 21.35,
    "ewa": 30,
-   "img": "spirits/111-石石/巨灵石/avatar.webp",
-   "bci": 3171
+   "img": "spirits/111-石石/巨灵石/avatar.webp"
   },
   {
    "n": "仪使者",
@@ -3067,8 +3014,8 @@
    "eggId": 3109001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "岩石组"
+    "大地组",
+    "妖精组"
    ],
    "hi": 0.45,
    "ha": 0.58,
@@ -3091,8 +3038,8 @@
    "eggId": 3109001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "岩石组"
+    "大地组",
+    "妖精组"
    ],
    "hi": 0.84,
    "ha": 1.21,
@@ -3103,8 +3050,7 @@
    "ewi": 6.668,
    "ewa": 14.02,
    "img": "spirits/113-仪使者/仪式之星/avatar.webp",
-   "art": "spirits/113-仪使者/仪式之星/art.webp",
-   "bci": 3110
+   "art": "spirits/113-仪使者/仪式之星/art.webp"
   },
   {
    "n": "仪式巨像",
@@ -3112,8 +3058,8 @@
    "eggId": 3109001,
    "stg": 3,
    "eg": [
-    "妖精组",
-    "岩石组"
+    "大地组",
+    "妖精组"
    ],
    "hi": 1.44,
    "ha": 1.79,
@@ -3124,8 +3070,7 @@
    "ewi": 6.668,
    "ewa": 14.02,
    "img": "spirits/113-仪使者/仪式巨像/avatar.webp",
-   "art": "spirits/113-仪使者/仪式巨像/art.webp",
-   "bci": 3111
+   "art": "spirits/113-仪使者/仪式巨像/art.webp"
   },
   {
    "eggId": 3109001,
@@ -3136,18 +3081,17 @@
     "妖精组"
    ],
    "n": "祭礼巨像",
-   "hi": 1.91,
-   "ha": 2.37,
-   "wi": 468.0,
-   "wa": 694.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/113-仪使者/祭礼巨像/avatar.webp",
    "branchOf": null,
-   "art": "spirits/113-仪使者/祭礼巨像/art.webp",
-   "bci": 4084
+   "art": "spirits/113-仪使者/祭礼巨像/art.webp"
   },
   {
    "n": "小独角兽",
@@ -3174,7 +3118,7 @@
   },
   {
    "n": "白金独角兽",
-   "no": 117,
+   "no": 116,
    "eggId": 3062001,
    "stg": 2,
    "eg": [
@@ -3190,8 +3134,7 @@
    "ewi": 14.525,
    "ewa": 22.24,
    "img": "spirits/116-小独角兽/白金独角兽/avatar.webp",
-   "art": "spirits/116-小独角兽/白金独角兽/art.webp",
-   "bci": 3063
+   "art": "spirits/116-小独角兽/白金独角兽/art.webp"
   },
   {
    "eggId": 3062001,
@@ -3202,17 +3145,16 @@
     "巨灵组"
    ],
    "n": "彩虹独角兽",
-   "hi": 2.72,
-   "ha": 3.04,
-   "wi": 160.5,
-   "wa": 211.08,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/116-小独角兽/彩虹独角兽/avatar.webp",
-   "branchOf": null,
-   "bci": 5002
+   "branchOf": null
   },
   {
    "n": "旋叶虫(枯叶)",
@@ -3239,13 +3181,13 @@
    "bci": 3496
   },
   {
-   "n": "旋叶虫(金黄)",
+   "n": "旋叶虫(金黄的样子)",
    "no": 118,
    "eggId": 3376001,
    "stg": 1,
    "eg": [
-    "植物组",
-    "昆虫组"
+    "昆虫组",
+    "植物组"
    ],
    "hi": 0.1,
    "ha": 0.15,
@@ -3296,18 +3238,17 @@
     "妖精组"
    ],
    "n": "黑猫密探",
-   "hi": 0.94,
-   "ha": 1.08,
-   "wi": 11.07,
-   "wa": 15.06,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/121-小黑猫/黑猫密探/avatar.webp",
    "branchOf": null,
-   "art": "spirits/121-小黑猫/黑猫密探/art.webp",
-   "bci": 4083
+   "art": "spirits/121-小黑猫/黑猫密探/art.webp"
   },
   {
    "n": "黑猫巫师",
@@ -3327,8 +3268,7 @@
    "ewi": 1.085,
    "ewa": 1.8,
    "img": "spirits/121-小黑猫/黑猫巫师/avatar.webp",
-   "art": "spirits/121-小黑猫/黑猫巫师/art.webp",
-   "bci": 3569
+   "art": "spirits/121-小黑猫/黑猫巫师/art.webp"
   },
   {
    "n": "忽幽狸",
@@ -3370,8 +3310,7 @@
    "eha": 0.45,
    "ewi": 2.905,
    "ewa": 3.92,
-   "img": "spirits/123-忽幽狸/影狸/avatar.webp",
-   "bci": 3066
+   "img": "spirits/123-忽幽狸/影狸/avatar.webp"
   },
   {
    "n": "多多",
@@ -3411,8 +3350,7 @@
    "eha": 0.27,
    "ewi": 5.11,
    "ewa": 7.44,
-   "img": "spirits/125-多多/多啦多/avatar.webp",
-   "bci": 3152
+   "img": "spirits/125-多多/多啦多/avatar.webp"
   },
   {
    "n": "古啦多",
@@ -3430,8 +3368,7 @@
    "eha": 0.27,
    "ewi": 5.11,
    "ewa": 7.44,
-   "img": "spirits/125-多多/古啦多/avatar.webp",
-   "bci": 3153
+   "img": "spirits/125-多多/古啦多/avatar.webp"
   },
   {
    "n": "哭哭菇",
@@ -3471,8 +3408,7 @@
    "eha": 0.2,
    "ewi": 0.63,
    "ewa": 1.28,
-   "img": "spirits/128-哭哭菇/怖须菇/avatar.webp",
-   "bci": 3240
+   "img": "spirits/128-哭哭菇/怖须菇/avatar.webp"
   },
   {
    "n": "怖哭菇",
@@ -3490,8 +3426,7 @@
    "eha": 0.2,
    "ewi": 0.63,
    "ewa": 1.28,
-   "img": "spirits/128-哭哭菇/怖哭菇/avatar.webp",
-   "bci": 3241
+   "img": "spirits/128-哭哭菇/怖哭菇/avatar.webp"
   },
   {
    "n": "恶魔狼",
@@ -3525,11 +3460,11 @@
     "动物组"
    ],
    "n": "恶魔狼王",
-   "bci": 4011,
-   "hi": 2.04,
-   "ha": 2.6,
-   "wi": 168.0,
-   "wa": 227.5,
+   "bci": null,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -3578,8 +3513,7 @@
    "ewi": 1.337,
    "ewa": 2.156,
    "img": "spirits/132-小电企鹅/电企鹅/avatar.webp",
-   "art": "spirits/132-小电企鹅/电企鹅/art.webp",
-   "bci": 3435
+   "art": "spirits/132-小电企鹅/电企鹅/art.webp"
   },
   {
    "n": "雪豆丁",
@@ -3622,8 +3556,7 @@
    "eha": 0.51,
    "ewi": 3.325,
    "ewa": 5,
-   "img": "spirits/134-雪豆丁/雪蛮人/avatar.webp",
-   "bci": 3173
+   "img": "spirits/134-雪豆丁/雪蛮人/avatar.webp"
   },
   {
    "n": "雪巨人",
@@ -3642,8 +3575,7 @@
    "eha": 0.51,
    "ewi": 3.325,
    "ewa": 5,
-   "img": "spirits/134-雪豆丁/雪巨人/avatar.webp",
-   "bci": 3174
+   "img": "spirits/134-雪豆丁/雪巨人/avatar.webp"
   },
   {
    "n": "呼呼猪",
@@ -3685,8 +3617,7 @@
    "ewi": 2.38,
    "ewa": 3.56,
    "img": "spirits/137-呼呼猪/獠牙猪/avatar.webp",
-   "art": "spirits/137-呼呼猪/獠牙猪/art.webp",
-   "bci": 3263
+   "art": "spirits/137-呼呼猪/獠牙猪/art.webp"
   },
   {
    "n": "雪娃娃",
@@ -3729,8 +3660,7 @@
    "ewi": 2.38,
    "ewa": 3.264,
    "img": "spirits/139-雪娃娃/冰封怨灵/avatar.webp",
-   "art": "spirits/139-雪娃娃/冰封怨灵/art.webp",
-   "bci": 3334
+   "art": "spirits/139-雪娃娃/冰封怨灵/art.webp"
   },
   {
    "n": "雪灵",
@@ -3749,8 +3679,7 @@
    "ewi": 2.38,
    "ewa": 3.264,
    "img": "spirits/139-雪娃娃/雪灵/avatar.webp",
-   "art": "spirits/139-雪娃娃/雪灵/art.webp",
-   "bci": 3335
+   "art": "spirits/139-雪娃娃/雪灵/art.webp"
   },
   {
    "n": "大耳帽兜",
@@ -3758,8 +3687,8 @@
    "eggId": 3121001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "拟人组"
+    "拟人组",
+    "妖精组"
    ],
    "hi": 0.39,
    "ha": 0.42,
@@ -3783,8 +3712,8 @@
    "eggId": 3121001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "拟人组"
+    "拟人组",
+    "妖精组"
    ],
    "hi": 0.4,
    "ha": 0.57,
@@ -3795,8 +3724,7 @@
    "ewi": 2.937,
    "ewa": 4.28,
    "img": "spirits/142-大耳帽兜/帽兜娃娃/avatar.webp",
-   "art": "spirits/142-大耳帽兜/帽兜娃娃/art.webp",
-   "bci": 3122
+   "art": "spirits/142-大耳帽兜/帽兜娃娃/art.webp"
   },
   {
    "eggId": 3121001,
@@ -3807,18 +3735,17 @@
     "妖精组"
    ],
    "n": "雪影冰灵",
-   "hi": 1.85,
-   "ha": 2.04,
-   "wi": 58.06,
-   "wa": 76.02,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/142-大耳帽兜/雪影冰灵/avatar.webp",
    "branchOf": null,
-   "art": "spirits/142-大耳帽兜/雪影冰灵/art.webp",
-   "bci": 4085
+   "art": "spirits/142-大耳帽兜/雪影冰灵/art.webp"
   },
   {
    "n": "雪影娃娃",
@@ -3826,8 +3753,8 @@
    "eggId": 3121001,
    "stg": 3,
    "eg": [
-    "妖精组",
-    "拟人组"
+    "拟人组",
+    "妖精组"
    ],
    "hi": 0.64,
    "ha": 0.92,
@@ -3838,11 +3765,10 @@
    "ewi": 2.937,
    "ewa": 4.28,
    "img": "spirits/142-大耳帽兜/雪影娃娃/avatar.webp",
-   "art": "spirits/142-大耳帽兜/雪影娃娃/art.webp",
-   "bci": 3123
+   "art": "spirits/142-大耳帽兜/雪影娃娃/art.webp"
   },
   {
-   "n": "权杖–Ⅱ",
+   "n": "权杖-Ⅱ",
    "no": 145,
    "eggId": 3410001,
    "stg": 1,
@@ -3920,8 +3846,7 @@
    "eha": 0.33,
    "ewi": 2.59,
    "ewa": 3.56,
-   "img": "spirits/147-灵狐/九尾狐/avatar.webp",
-   "bci": 3076
+   "img": "spirits/147-灵狐/九尾狐/avatar.webp"
   },
   {
    "n": "尖嘴狐仙",
@@ -3939,8 +3864,7 @@
    "eha": 0.33,
    "ewi": 2.59,
    "ewa": 3.56,
-   "img": "spirits/147-灵狐/尖嘴狐仙/avatar.webp",
-   "bci": 3077
+   "img": "spirits/147-灵狐/尖嘴狐仙/avatar.webp"
   },
   {
    "n": "松仔",
@@ -3982,8 +3906,7 @@
    "ewi": 2.188,
    "ewa": 3.14,
    "img": "spirits/153-松仔/松叶羊/avatar.webp",
-   "art": "spirits/153-松仔/松叶羊/art.webp",
-   "bci": 3595
+   "art": "spirits/153-松仔/松叶羊/art.webp"
   },
   {
    "n": "针叶巡林",
@@ -4002,8 +3925,7 @@
    "ewi": 2.188,
    "ewa": 3.14,
    "img": "spirits/153-松仔/针叶巡林/avatar.webp",
-   "art": "spirits/153-松仔/针叶巡林/art.webp",
-   "bci": 3596
+   "art": "spirits/153-松仔/针叶巡林/art.webp"
   },
   {
    "n": "小勇狮",
@@ -4045,8 +3967,7 @@
    "eha": 0.34,
    "ewi": 2.975,
    "ewa": 4.82,
-   "img": "spirits/156-小勇狮/炽焰狮/avatar.webp",
-   "bci": 3601
+   "img": "spirits/156-小勇狮/炽焰狮/avatar.webp"
   },
   {
    "n": "炽心勇狮",
@@ -4064,8 +3985,7 @@
    "eha": 0.34,
    "ewi": 2.975,
    "ewa": 4.82,
-   "img": "spirits/156-小勇狮/炽心勇狮/avatar.webp",
-   "bci": 3602
+   "img": "spirits/156-小勇狮/炽心勇狮/avatar.webp"
   },
   {
    "n": "水滴蛇",
@@ -4109,8 +4029,7 @@
    "ewi": 0.788,
    "ewa": 1.64,
    "img": "spirits/159-水滴蛇/水蛇锁/avatar.webp",
-   "art": "spirits/159-水滴蛇/水蛇锁/art.webp",
-   "bci": 3598
+   "art": "spirits/159-水滴蛇/水蛇锁/art.webp"
   },
   {
    "n": "游蛇魔使",
@@ -4130,8 +4049,7 @@
    "ewi": 0.788,
    "ewa": 1.64,
    "img": "spirits/159-水滴蛇/游蛇魔使/avatar.webp",
-   "art": "spirits/159-水滴蛇/游蛇魔使/art.webp",
-   "bci": 3599
+   "art": "spirits/159-水滴蛇/游蛇魔使/art.webp"
   },
   {
    "n": "公平鸽",
@@ -4197,8 +4115,7 @@
    "eha": 0.35,
    "ewi": 6.86,
    "ewa": 9,
-   "img": "spirits/163-小怂猫/怒目怂猫/avatar.webp",
-   "bci": 3238
+   "img": "spirits/163-小怂猫/怒目怂猫/avatar.webp"
   },
   {
    "n": "小狮鹫(崖间地)",
@@ -4224,7 +4141,7 @@
    "bci": 3467
   },
   {
-   "n": "小狮鹫(高山地)",
+   "n": "小狮鹫(崖间地的样子)",
    "no": 165,
    "eggId": 3127001,
    "stg": 1,
@@ -4284,8 +4201,7 @@
    "eha": 0.28,
    "ewi": 1.225,
    "ewa": 2,
-   "img": "spirits/168-圆眼蜘蛛/尖角蜘蛛/avatar.webp",
-   "bci": 3131
+   "img": "spirits/168-圆眼蜘蛛/尖角蜘蛛/avatar.webp"
   },
   {
    "n": "芋香巨角蛛",
@@ -4303,17 +4219,16 @@
    "eha": 0.28,
    "ewi": 1.225,
    "ewa": 2,
-   "img": "spirits/168-圆眼蜘蛛/芋香巨角蛛/avatar.webp",
-   "bci": 3132
+   "img": "spirits/168-圆眼蜘蛛/芋香巨角蛛/avatar.webp"
   },
   {
    "n": "嗜波螺",
-   "no": 173,
+   "no": 171,
    "eggId": 3511001,
    "stg": 3,
    "eg": [
     "两栖组",
-    "岩石组"
+    "大地组"
    ],
    "hi": 1.2,
    "ha": 1.6,
@@ -4322,8 +4237,7 @@
    "ehi": 0.14,
    "eha": 0.17,
    "ewi": 1.698,
-   "ewa": 2.26,
-   "bci": 3510
+   "ewa": 2.26
   },
   {
    "n": "波波螺",
@@ -4332,7 +4246,7 @@
    "stg": 1,
    "eg": [
     "两栖组",
-    "岩石组"
+    "大地组"
    ],
    "hi": 0.32,
    "ha": 0.42,
@@ -4377,12 +4291,12 @@
   },
   {
    "n": "消波螺",
-   "no": 172,
+   "no": 171,
    "eggId": 3511001,
    "stg": 2,
    "eg": [
     "两栖组",
-    "岩石组"
+    "大地组"
    ],
    "hi": 0.68,
    "ha": 0.82,
@@ -4391,8 +4305,7 @@
    "ehi": 0.14,
    "eha": 0.17,
    "ewi": 1.698,
-   "ewa": 2.26,
-   "bci": 3509
+   "ewa": 2.26
   },
   {
    "n": "菇菇丁",
@@ -4436,8 +4349,7 @@
    "ewi": 0.385,
    "ewa": 0.5,
    "img": "spirits/174-菇菇丁/多菇丁/avatar.webp",
-   "art": "spirits/174-菇菇丁/多菇丁/art.webp",
-   "bci": 3379
+   "art": "spirits/174-菇菇丁/多菇丁/art.webp"
   },
   {
    "n": "九幽菇",
@@ -4456,8 +4368,7 @@
    "ewi": 0.385,
    "ewa": 0.5,
    "img": "spirits/174-菇菇丁/九幽菇/avatar.webp",
-   "art": "spirits/174-菇菇丁/九幽菇/art.webp",
-   "bci": 3380
+   "art": "spirits/174-菇菇丁/九幽菇/art.webp"
   },
   {
    "n": "斑斑",
@@ -4500,8 +4411,7 @@
    "ewi": 1.677,
    "ewa": 2.468,
    "img": "spirits/177-斑斑/斑枭/avatar.webp",
-   "art": "spirits/177-斑斑/斑枭/art.webp",
-   "bci": 3535
+   "art": "spirits/177-斑斑/斑枭/art.webp"
   },
   {
    "n": "草头鸭",
@@ -4510,8 +4420,8 @@
    "bci": 3008,
    "stg": 1,
    "eg": [
-    "两栖组",
-    "天空组"
+    "天空组",
+    "两栖组"
    ],
    "hi": 0.5,
    "ha": 0.72,
@@ -4534,8 +4444,8 @@
    "eggId": 3008001,
    "stg": 2,
    "eg": [
-    "两栖组",
-    "天空组"
+    "天空组",
+    "两栖组"
    ],
    "hi": 0.9,
    "ha": 1.29,
@@ -4546,8 +4456,7 @@
    "ewi": 1.715,
    "ewa": 2.628,
    "img": "spirits/179-草头鸭/卷毛鸭/avatar.webp",
-   "art": "spirits/179-草头鸭/卷毛鸭/art.webp",
-   "bci": 3067
+   "art": "spirits/179-草头鸭/卷毛鸭/art.webp"
   },
   {
    "n": "海豹战士",
@@ -4592,8 +4501,7 @@
    "ewi": 24.325,
    "ewa": 35.04,
    "img": "spirits/181-海豹战士/海豹船长/avatar.webp",
-   "art": "spirits/181-海豹战士/海豹船长/art.webp",
-   "bci": 3216
+   "art": "spirits/181-海豹战士/海豹船长/art.webp"
   },
   {
    "n": "号儿鱼",
@@ -4601,8 +4509,8 @@
    "eggId": 3529001,
    "stg": 1,
    "eg": [
-    "海洋组",
-    "妖精组"
+    "妖精组",
+    "海洋组"
    ],
    "hi": 0.31,
    "ha": 0.42,
@@ -4625,8 +4533,8 @@
    "eggId": 3529001,
    "stg": 2,
    "eg": [
-    "海洋组",
-    "妖精组"
+    "妖精组",
+    "海洋组"
    ],
    "hi": 0.79,
    "ha": 0.98,
@@ -4637,8 +4545,7 @@
    "ewi": 1.365,
    "ewa": 2.1,
    "img": "spirits/183-号儿鱼/圆号鱼/avatar.webp",
-   "art": "spirits/183-号儿鱼/圆号鱼/art.webp",
-   "bci": 3530
+   "art": "spirits/183-号儿鱼/圆号鱼/art.webp"
   },
   {
    "n": "甜田螺",
@@ -4646,8 +4553,8 @@
    "eggId": 3112001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "软体组"
+    "软体组",
+    "妖精组"
    ],
    "hi": 0.41,
    "ha": 0.58,
@@ -4670,8 +4577,8 @@
    "eggId": 3112001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "软体组"
+    "软体组",
+    "妖精组"
    ],
    "hi": 0.68,
    "ha": 0.97,
@@ -4682,8 +4589,7 @@
    "ewi": 2.625,
    "ewa": 3.76,
    "img": "spirits/185-甜田螺/壳乙螺/avatar.webp",
-   "art": "spirits/185-甜田螺/壳乙螺/art.webp",
-   "bci": 3113
+   "art": "spirits/185-甜田螺/壳乙螺/art.webp"
   },
   {
    "n": "卡洛儿",
@@ -4691,8 +4597,8 @@
    "eggId": 3112001,
    "stg": 3,
    "eg": [
-    "妖精组",
-    "软体组"
+    "软体组",
+    "妖精组"
    ],
    "hi": 0.7,
    "ha": 1,
@@ -4702,11 +4608,10 @@
    "eha": 0.24,
    "ewi": 2.625,
    "ewa": 3.76,
-   "img": "spirits/185-甜田螺/卡洛儿/avatar.webp",
-   "bci": 3114
+   "img": "spirits/185-甜田螺/卡洛儿/avatar.webp"
   },
   {
-   "n": "棋棋(白)",
+   "n": "棋棋(白子)",
    "no": 188,
    "eggId": 3550001,
    "stg": 1,
@@ -4792,8 +4697,7 @@
    "ewi": 1.299,
    "ewa": 2.56,
    "img": "spirits/193-奔波鼠/流浪鼠/avatar.webp",
-   "art": "spirits/193-奔波鼠/流浪鼠/art.webp",
-   "bci": 3256
+   "art": "spirits/193-奔波鼠/流浪鼠/art.webp"
   },
   {
    "n": "呆小路",
@@ -4838,8 +4742,7 @@
    "ewi": 1.575,
    "ewa": 2.32,
    "img": "spirits/195-呆小路/舞动路路/avatar.webp",
-   "art": "spirits/195-呆小路/舞动路路/art.webp",
-   "bci": 3094
+   "art": "spirits/195-呆小路/舞动路路/art.webp"
   },
   {
    "n": "白发路路",
@@ -4859,8 +4762,7 @@
    "ewi": 1.575,
    "ewa": 2.32,
    "img": "spirits/195-呆小路/白发路路/avatar.webp",
-   "art": "spirits/195-呆小路/白发路路/art.webp",
-   "bci": 3095
+   "art": "spirits/195-呆小路/白发路路/art.webp"
   },
   {
    "n": "逗逗",
@@ -4905,8 +4807,7 @@
    "ewi": 0.21,
    "ewa": 0.32,
    "img": "spirits/198-逗逗/气球猫/avatar.webp",
-   "art": "spirits/198-逗逗/气球猫/art.webp",
-   "bci": 3374
+   "art": "spirits/198-逗逗/气球猫/art.webp"
   },
   {
    "eggId": 3373001,
@@ -4917,18 +4818,17 @@
     "巨灵组"
    ],
    "n": "奇梦咪",
-   "hi": 2.29,
-   "ha": 2.75,
-   "wi": 38.7,
-   "wa": 55.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/198-逗逗/奇梦咪/avatar.webp",
    "branchOf": null,
-   "art": "spirits/198-逗逗/奇梦咪/art.webp",
-   "bci": 4087
+   "art": "spirits/198-逗逗/奇梦咪/art.webp"
   },
   {
    "n": "梦想三三",
@@ -4948,8 +4848,7 @@
    "ewi": 0.21,
    "ewa": 0.32,
    "img": "spirits/198-逗逗/梦想三三/avatar.webp",
-   "art": "spirits/198-逗逗/梦想三三/art.webp",
-   "bci": 3375
+   "art": "spirits/198-逗逗/梦想三三/art.webp"
   },
   {
    "n": "花怨鳗",
@@ -4957,8 +4856,8 @@
    "eggId": 3506001,
    "stg": 1,
    "eg": [
-    "海洋组",
-    "两栖组"
+    "两栖组",
+    "海洋组"
    ],
    "hi": 0.58,
    "ha": 0.68,
@@ -4981,8 +4880,8 @@
    "eggId": 3506001,
    "stg": 2,
    "eg": [
-    "海洋组",
-    "两栖组"
+    "两栖组",
+    "海洋组"
    ],
    "hi": 0.79,
    "ha": 0.92,
@@ -4992,8 +4891,7 @@
    "eha": 0.28,
    "ewi": 1.015,
    "ewa": 1.6,
-   "img": "spirits/201-花怨鳗/鳗尾兽/avatar.webp",
-   "bci": 3507
+   "img": "spirits/201-花怨鳗/鳗尾兽/avatar.webp"
   },
   {
    "n": "伊雷龙",
@@ -5001,7 +4899,7 @@
    "eggId": 3211001,
    "stg": 1,
    "eg": [
-    "巨龙组"
+    "龙组"
    ],
    "hi": 0.72,
    "ha": 0.94,
@@ -5024,7 +4922,7 @@
    "eggId": 3211001,
    "stg": 2,
    "eg": [
-    "巨龙组"
+    "龙组"
    ],
    "hi": 3.65,
    "ha": 4,
@@ -5035,8 +4933,7 @@
    "ewi": 9.52,
    "ewa": 13.6,
    "img": "spirits/203-伊雷龙/伊兰亚龙/avatar.webp",
-   "art": "spirits/203-伊雷龙/伊兰亚龙/art.webp",
-   "bci": 3412
+   "art": "spirits/203-伊雷龙/伊兰亚龙/art.webp"
   },
   {
    "eggId": 3211001,
@@ -5046,18 +4943,17 @@
     "龙组"
    ],
    "n": "伊兰龙",
-   "hi": 5.5,
-   "ha": 7.0,
-   "wi": 228.0,
-   "wa": 342.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/203-伊雷龙/伊兰龙/avatar.webp",
    "branchOf": null,
-   "art": "spirits/203-伊雷龙/伊兰龙/art.webp",
-   "bci": 4090
+   "art": "spirits/203-伊雷龙/伊兰龙/art.webp"
   },
   {
    "n": "拉特",
@@ -5097,8 +4993,7 @@
    "eha": 0.25,
    "ewi": 2.695,
    "ewa": 3.44,
-   "img": "spirits/205-拉特/酷拉/avatar.webp",
-   "bci": 3189
+   "img": "spirits/205-拉特/酷拉/avatar.webp"
   },
   {
    "eggId": 3188001,
@@ -5108,18 +5003,17 @@
     "妖精组"
    ],
    "n": "风暴酷拉",
-   "hi": 1.31,
-   "ha": 1.63,
-   "wi": 32.0,
-   "wa": 50.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/205-拉特/风暴酷拉/avatar.webp",
    "branchOf": null,
-   "art": "spirits/205-拉特/风暴酷拉/art.webp",
-   "bci": 4106
+   "art": "spirits/205-拉特/风暴酷拉/art.webp"
   },
   {
    "n": "闪电环",
@@ -5162,8 +5056,7 @@
    "ewi": 0.84,
    "ewa": 1.24,
    "img": "spirits/207-闪电环/刺电环/avatar.webp",
-   "art": "spirits/207-闪电环/刺电环/art.webp",
-   "bci": 3196
+   "art": "spirits/207-闪电环/刺电环/art.webp"
   },
   {
    "n": "荆棘电环",
@@ -5182,8 +5075,7 @@
    "ewi": 0.84,
    "ewa": 1.24,
    "img": "spirits/207-闪电环/荆棘电环/avatar.webp",
-   "art": "spirits/207-闪电环/荆棘电环/art.webp",
-   "bci": 3197
+   "art": "spirits/207-闪电环/荆棘电环/art.webp"
   },
   {
    "n": "小箱怪",
@@ -5191,8 +5083,8 @@
    "eggId": 3618001,
    "stg": 1,
    "eg": [
-    "机械组",
-    "妖精组"
+    "妖精组",
+    "机械组"
    ],
    "hi": 0.34,
    "ha": 0.46,
@@ -5216,8 +5108,8 @@
    "eggId": 3618001,
    "stg": 2,
    "eg": [
-    "机械组",
-    "妖精组"
+    "妖精组",
+    "机械组"
    ],
    "hi": 0.64,
    "ha": 0.72,
@@ -5227,8 +5119,7 @@
    "eha": 0.19,
    "ewi": 1.558,
    "ewa": 2.724,
-   "img": "spirits/210-小箱怪/迷迷箱怪/avatar.webp",
-   "bci": 3619
+   "img": "spirits/210-小箱怪/迷迷箱怪/avatar.webp"
   },
   {
    "n": "古钟蛇",
@@ -5270,8 +5161,7 @@
    "eha": 0.46,
    "ewi": 2.415,
    "ewa": 3.12,
-   "img": "spirits/212-古钟蛇/寒音蛇/avatar.webp",
-   "bci": 3226
+   "img": "spirits/212-古钟蛇/寒音蛇/avatar.webp"
   },
   {
    "n": "矮脚爬爬",
@@ -5279,8 +5169,8 @@
    "eggId": 3178001,
    "stg": 1,
    "eg": [
-    "昆虫组",
-    "巨灵组"
+    "巨灵组",
+    "昆虫组"
    ],
    "hi": 0.28,
    "ha": 0.44,
@@ -5304,8 +5194,8 @@
    "eggId": 3178001,
    "stg": 2,
    "eg": [
-    "昆虫组",
-    "巨灵组"
+    "巨灵组",
+    "昆虫组"
    ],
    "hi": 1.32,
    "ha": 1.55,
@@ -5316,8 +5206,7 @@
    "ewi": 1.155,
    "ewa": 1.68,
    "img": "spirits/214-矮脚爬爬/恶魔红钻/avatar.webp",
-   "art": "spirits/214-矮脚爬爬/恶魔红钻/art.webp",
-   "bci": 3179
+   "art": "spirits/214-矮脚爬爬/恶魔红钻/art.webp"
   },
   {
    "n": "火尾瓦特",
@@ -5360,8 +5249,7 @@
    "ewi": 6.475,
    "ewa": 8.48,
    "img": "spirits/216-火尾瓦特/火尾战士/avatar.webp",
-   "art": "spirits/216-火尾瓦特/火尾战士/art.webp",
-   "bci": 3091
+   "art": "spirits/216-火尾瓦特/火尾战士/art.webp"
   },
   {
    "n": "烈火守护",
@@ -5380,8 +5268,7 @@
    "ewi": 6.475,
    "ewa": 8.48,
    "img": "spirits/216-火尾瓦特/烈火守护/avatar.webp",
-   "art": "spirits/216-火尾瓦特/烈火守护/art.webp",
-   "bci": 3092
+   "art": "spirits/216-火尾瓦特/烈火守护/art.webp"
   },
   {
    "eggId": 3090001,
@@ -5391,18 +5278,17 @@
     "巨灵组"
    ],
    "n": "烈焰狂战士",
-   "hi": 1.95,
-   "ha": 2.7,
-   "wi": 135.0,
-   "wa": 220.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/216-火尾瓦特/烈焰狂战士/avatar.webp",
    "branchOf": null,
-   "art": "spirits/216-火尾瓦特/烈焰狂战士/art.webp",
-   "bci": 4107
+   "art": "spirits/216-火尾瓦特/烈焰狂战士/art.webp"
   },
   {
    "n": "里拉鳐",
@@ -5410,8 +5296,8 @@
    "eggId": 3521001,
    "stg": 1,
    "eg": [
-    "海洋组",
-    "妖精组"
+    "妖精组",
+    "海洋组"
    ],
    "hi": 0.94,
    "ha": 1.1,
@@ -5525,8 +5411,8 @@
    "eggId": 3206001,
    "stg": 1,
    "eg": [
-    "机械组",
-    "巨灵组"
+    "巨灵组",
+    "机械组"
    ],
    "hi": 0.65,
    "ha": 0.94,
@@ -5549,8 +5435,8 @@
    "eggId": 3206001,
    "stg": 2,
    "eg": [
-    "机械组",
-    "巨灵组"
+    "巨灵组",
+    "机械组"
    ],
    "hi": 0.99,
    "ha": 1.42,
@@ -5560,8 +5446,7 @@
    "eha": 0.39,
    "ewi": 1.995,
    "ewa": 2.84,
-   "img": "spirits/221-多西/库多西/avatar.webp",
-   "bci": 3207
+   "img": "spirits/221-多西/库多西/avatar.webp"
   },
   {
    "n": "波多西",
@@ -5569,8 +5454,8 @@
    "eggId": 3206001,
    "stg": 3,
    "eg": [
-    "机械组",
-    "巨灵组"
+    "巨灵组",
+    "机械组"
    ],
    "hi": 1.43,
    "ha": 2.05,
@@ -5580,8 +5465,7 @@
    "eha": 0.39,
    "ewi": 1.995,
    "ewa": 2.84,
-   "img": "spirits/221-多西/波多西/avatar.webp",
-   "bci": 3208
+   "img": "spirits/221-多西/波多西/avatar.webp"
   },
   {
    "n": "小翼龙",
@@ -5590,7 +5474,7 @@
    "stg": 1,
    "eg": [
     "天空组",
-    "巨龙组"
+    "龙组"
    ],
    "hi": 0.61,
    "ha": 0.87,
@@ -5614,7 +5498,7 @@
    "stg": 2,
    "eg": [
     "天空组",
-    "巨龙组"
+    "龙组"
    ],
    "hi": 1.79,
    "ha": 1.99,
@@ -5625,8 +5509,7 @@
    "ewi": 8.785,
    "ewa": 14.6,
    "img": "spirits/224-小翼龙/翼龙/avatar.webp",
-   "art": "spirits/224-小翼龙/翼龙/art.webp",
-   "bci": 3210
+   "art": "spirits/224-小翼龙/翼龙/art.webp"
   },
   {
    "n": "电动长颈鹿",
@@ -5669,8 +5552,7 @@
    "ewi": 10.43,
    "ewa": 14.72,
    "img": "spirits/226-电动长颈鹿/奔乐鹿/avatar.webp",
-   "art": "spirits/226-电动长颈鹿/奔乐鹿/art.webp",
-   "bci": 3358
+   "art": "spirits/226-电动长颈鹿/奔乐鹿/art.webp"
   },
   {
    "eggId": 3357001,
@@ -5678,18 +5560,17 @@
    "stg": 4,
    "eg": [],
    "n": "波普鹿",
-   "hi": 3.3,
-   "ha": 3.72,
-   "wi": 210.5,
-   "wa": 300.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/226-电动长颈鹿/波普鹿/avatar.webp",
    "branchOf": null,
-   "art": "spirits/226-电动长颈鹿/波普鹿/art.webp",
-   "bci": 4088
+   "art": "spirits/226-电动长颈鹿/波普鹿/art.webp"
   },
   {
    "n": "爵士鹿",
@@ -5708,8 +5589,7 @@
    "ewi": 10.43,
    "ewa": 14.72,
    "img": "spirits/226-电动长颈鹿/爵士鹿/avatar.webp",
-   "art": "spirits/226-电动长颈鹿/爵士鹿/art.webp",
-   "bci": 3359
+   "art": "spirits/226-电动长颈鹿/爵士鹿/art.webp"
   },
   {
    "n": "缇塔",
@@ -5751,8 +5631,7 @@
    "eha": 0.31,
    "ewi": 13.37,
    "ewa": 18.08,
-   "img": "spirits/229-缇塔/声波缇塔/avatar.webp",
-   "bci": 3407
+   "img": "spirits/229-缇塔/声波缇塔/avatar.webp"
   },
   {
    "n": "小鹬",
@@ -5795,8 +5674,7 @@
    "ewi": 0.49,
    "ewa": 0.88,
    "img": "spirits/231-小鹬/鄙目鹬/avatar.webp",
-   "art": "spirits/231-小鹬/鄙目鹬/art.webp",
-   "bci": 3251
+   "art": "spirits/231-小鹬/鄙目鹬/art.webp"
   },
   {
    "eggId": 3250001,
@@ -5806,18 +5684,17 @@
     "天空组"
    ],
    "n": "高帽鹬者",
-   "hi": 1.54,
-   "ha": 1.88,
-   "wi": 35.0,
-   "wa": 50.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/231-小鹬/高帽鹬者/avatar.webp",
    "branchOf": null,
-   "art": "spirits/231-小鹬/高帽鹬者/art.webp",
-   "bci": 5054
+   "art": "spirits/231-小鹬/高帽鹬者/art.webp"
   },
   {
    "n": "高脚鹬",
@@ -5836,8 +5713,7 @@
    "ewi": 0.49,
    "ewa": 0.88,
    "img": "spirits/231-小鹬/高脚鹬/avatar.webp",
-   "art": "spirits/231-小鹬/高脚鹬/art.webp",
-   "bci": 3252
+   "art": "spirits/231-小鹬/高脚鹬/art.webp"
   },
   {
    "n": "脆筒甜甜",
@@ -5845,8 +5721,8 @@
    "eggId": 3124001,
    "stg": 1,
    "eg": [
-    "软体组",
-    "魔力组"
+    "魔力组",
+    "软体组"
    ],
    "hi": 0.3,
    "ha": 0.4,
@@ -5871,8 +5747,8 @@
    "eggId": 3124001,
    "stg": 2,
    "eg": [
-    "软体组",
-    "魔力组"
+    "魔力组",
+    "软体组"
    ],
    "hi": 0.4,
    "ha": 0.6,
@@ -5883,8 +5759,7 @@
    "ewi": 0.63,
    "ewa": 1.52,
    "img": "spirits/234-脆筒甜甜/香草甜甜/avatar.webp",
-   "art": "spirits/234-脆筒甜甜/香草甜甜/art.webp",
-   "bci": 3125
+   "art": "spirits/234-脆筒甜甜/香草甜甜/art.webp"
   },
   {
    "n": "圣代甜甜",
@@ -5892,8 +5767,8 @@
    "eggId": 3124001,
    "stg": 3,
    "eg": [
-    "软体组",
-    "魔力组"
+    "魔力组",
+    "软体组"
    ],
    "hi": 0.7,
    "ha": 1,
@@ -5904,8 +5779,7 @@
    "ewi": 0.63,
    "ewa": 1.52,
    "img": "spirits/234-脆筒甜甜/圣代甜甜/avatar.webp",
-   "art": "spirits/234-脆筒甜甜/圣代甜甜/art.webp",
-   "bci": 3126
+   "art": "spirits/234-脆筒甜甜/圣代甜甜/art.webp"
   },
   {
    "n": "豆丁鱼",
@@ -5914,7 +5788,7 @@
    "stg": 1,
    "eg": [
     "海洋组",
-    "巨龙组"
+    "龙组"
    ],
    "hi": 0.31,
    "ha": 0.44,
@@ -5939,7 +5813,7 @@
    "stg": 2,
    "eg": [
     "海洋组",
-    "巨龙组"
+    "龙组"
    ],
    "hi": 0.27,
    "ha": 0.39,
@@ -5949,8 +5823,7 @@
    "eha": 0.18,
    "ewi": 0.42,
    "ewa": 0.6,
-   "img": "spirits/239-豆丁鱼/快鳍鱼/avatar.webp",
-   "bci": 3385
+   "img": "spirits/239-豆丁鱼/快鳍鱼/avatar.webp"
   },
   {
    "n": "龙鱼",
@@ -5959,7 +5832,7 @@
    "stg": 3,
    "eg": [
     "海洋组",
-    "巨龙组"
+    "龙组"
    ],
    "hi": 0.69,
    "ha": 0.99,
@@ -5969,8 +5842,7 @@
    "eha": 0.18,
    "ewi": 0.42,
    "ewa": 0.6,
-   "img": "spirits/239-豆丁鱼/龙鱼/avatar.webp",
-   "bci": 3386
+   "img": "spirits/239-豆丁鱼/龙鱼/avatar.webp"
   },
   {
    "n": "胆小鳗鱼",
@@ -6014,8 +5886,7 @@
    "ewi": 6.125,
    "ewa": 10.74,
    "img": "spirits/242-胆小鳗鱼/闪电鳗鱼/avatar.webp",
-   "art": "spirits/242-胆小鳗鱼/闪电鳗鱼/art.webp",
-   "bci": 3267
+   "art": "spirits/242-胆小鳗鱼/闪电鳗鱼/art.webp"
   },
   {
    "n": "翡翠水母",
@@ -6023,8 +5894,8 @@
    "eggId": 3119001,
    "stg": 1,
    "eg": [
-    "海洋组",
-    "软体组"
+    "软体组",
+    "海洋组"
    ],
    "hi": 0.49,
    "ha": 0.7,
@@ -6051,18 +5922,17 @@
     "海洋组"
    ],
    "n": "琉璃君主",
-   "hi": 1.6,
-   "ha": 2.0,
-   "wi": 133.0,
-   "wa": 215.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/244-翡翠水母/琉璃君主/avatar.webp",
    "branchOf": null,
-   "art": "spirits/244-翡翠水母/琉璃君主/art.webp",
-   "bci": 4094
+   "art": "spirits/244-翡翠水母/琉璃君主/art.webp"
   },
   {
    "n": "琉璃水母",
@@ -6070,8 +5940,8 @@
    "eggId": 3119001,
    "stg": 2,
    "eg": [
-    "海洋组",
-    "软体组"
+    "软体组",
+    "海洋组"
    ],
    "hi": 0.9,
    "ha": 1.28,
@@ -6082,8 +5952,7 @@
    "ewi": 11.025,
    "ewa": 14.72,
    "img": "spirits/244-翡翠水母/琉璃水母/avatar.webp",
-   "art": "spirits/244-翡翠水母/琉璃水母/art.webp",
-   "bci": 3120
+   "art": "spirits/244-翡翠水母/琉璃水母/art.webp"
   },
   {
    "n": "裘洛",
@@ -6129,8 +5998,7 @@
    "ewi": 2.625,
    "ewa": 5,
    "img": "spirits/246-裘洛/裘力/avatar.webp",
-   "art": "spirits/246-裘洛/裘力/art.webp",
-   "bci": 3155
+   "art": "spirits/246-裘洛/裘力/art.webp"
   },
   {
    "n": "裘卡",
@@ -6150,8 +6018,7 @@
    "ewi": 2.625,
    "ewa": 5,
    "img": "spirits/246-裘洛/裘卡/avatar.webp",
-   "art": "spirits/246-裘洛/裘卡/art.webp",
-   "bci": 3156
+   "art": "spirits/246-裘洛/裘卡/art.webp"
   },
   {
    "n": "可爱猿",
@@ -6159,8 +6026,8 @@
    "eggId": 3083001,
    "stg": 1,
    "eg": [
-    "巨灵组",
-    "拟人组"
+    "拟人组",
+    "巨灵组"
    ],
    "hi": 0.69,
    "ha": 0.98,
@@ -6182,8 +6049,8 @@
    "eggId": 3083001,
    "stg": 2,
    "eg": [
-    "巨灵组",
-    "拟人组"
+    "拟人组",
+    "巨灵组"
    ],
    "hi": 0.71,
    "ha": 1.02,
@@ -6193,8 +6060,7 @@
    "eha": 0.41,
    "ewi": 7.35,
    "ewa": 12.6,
-   "img": "spirits/249-可爱猿/炽热猿/avatar.webp",
-   "bci": 3084
+   "img": "spirits/249-可爱猿/炽热猿/avatar.webp"
   },
   {
    "n": "火焰猿",
@@ -6202,8 +6068,8 @@
    "eggId": 3083001,
    "stg": 3,
    "eg": [
-    "巨灵组",
-    "拟人组"
+    "拟人组",
+    "巨灵组"
    ],
    "hi": 1.68,
    "ha": 1.9,
@@ -6213,8 +6079,7 @@
    "eha": 0.41,
    "ewi": 7.35,
    "ewa": 12.6,
-   "img": "spirits/249-可爱猿/火焰猿/avatar.webp",
-   "bci": 3085
+   "img": "spirits/249-可爱猿/火焰猿/avatar.webp"
   },
   {
    "n": "布鲁斯",
@@ -6259,8 +6124,7 @@
    "ewi": 0.84,
    "ewa": 1.84,
    "img": "spirits/252-布鲁斯/雪顶布鲁斯/avatar.webp",
-   "art": "spirits/252-布鲁斯/雪顶布鲁斯/art.webp",
-   "bci": 3258
+   "art": "spirits/252-布鲁斯/雪顶布鲁斯/art.webp"
   },
   {
    "n": "冰钻布鲁斯",
@@ -6280,8 +6144,7 @@
    "ewi": 0.84,
    "ewa": 1.84,
    "img": "spirits/252-布鲁斯/冰钻布鲁斯/avatar.webp",
-   "art": "spirits/252-布鲁斯/冰钻布鲁斯/art.webp",
-   "bci": 3259
+   "art": "spirits/252-布鲁斯/冰钻布鲁斯/art.webp"
   },
   {
    "eggId": 3257001,
@@ -6292,18 +6155,17 @@
     "海洋组"
    ],
    "n": "圣冠布鲁斯",
-   "hi": 1.75,
-   "ha": 2.3,
-   "wi": 172.0,
-   "wa": 270.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/252-布鲁斯/圣冠布鲁斯/avatar.webp",
    "branchOf": null,
-   "art": "spirits/252-布鲁斯/圣冠布鲁斯/art.webp",
-   "bci": 4110
+   "art": "spirits/252-布鲁斯/圣冠布鲁斯/art.webp"
   },
   {
    "n": "治愈兔",
@@ -6347,8 +6209,7 @@
    "ewi": 4.211,
    "ewa": 5.768,
    "img": "spirits/255-治愈兔/红丝绒/avatar.webp",
-   "art": "spirits/255-治愈兔/红丝绒/art.webp",
-   "bci": 3082
+   "art": "spirits/255-治愈兔/红丝绒/art.webp"
   },
   {
    "n": "红绒十字",
@@ -6368,8 +6229,7 @@
    "ewi": 4.211,
    "ewa": 5.768,
    "img": "spirits/255-治愈兔/红绒十字/avatar.webp",
-   "art": "spirits/255-治愈兔/红绒十字/art.webp",
-   "bci": 3350
+   "art": "spirits/255-治愈兔/红绒十字/art.webp"
   },
   {
    "n": "乌达(极夜)",
@@ -6393,7 +6253,7 @@
    "bci": 3539
   },
   {
-   "n": "乌达(极昼)",
+   "n": "乌达(极昼的样子)",
    "no": 258,
    "eggId": 3536001,
    "stg": 1,
@@ -6419,8 +6279,8 @@
    "eggId": 3484001,
    "stg": 1,
    "eg": [
-    "机械组",
-    "天空组"
+    "天空组",
+    "机械组"
    ],
    "hi": 0.35,
    "ha": 0.45,
@@ -6443,8 +6303,8 @@
    "eggId": 3484001,
    "stg": 2,
    "eg": [
-    "机械组",
-    "天空组"
+    "天空组",
+    "机械组"
    ],
    "hi": 1.05,
    "ha": 1.47,
@@ -6455,8 +6315,7 @@
    "ewi": 0.728,
    "ewa": 1.74,
    "img": "spirits/261-螺旋帕帕/帕帕斯卡/avatar.webp",
-   "art": "spirits/261-螺旋帕帕/帕帕斯卡/art.webp",
-   "bci": 3547
+   "art": "spirits/261-螺旋帕帕/帕帕斯卡/art.webp"
   },
   {
    "n": "机械方方",
@@ -6464,8 +6323,8 @@
    "eggId": 3200001,
    "stg": 1,
    "eg": [
-    "机械组",
-    "拟人组"
+    "拟人组",
+    "机械组"
    ],
    "hi": 0.42,
    "ha": 0.6,
@@ -6488,8 +6347,8 @@
    "eggId": 3200001,
    "stg": 2,
    "eg": [
-    "机械组",
-    "拟人组"
+    "拟人组",
+    "机械组"
    ],
    "hi": 0.68,
    "ha": 0.97,
@@ -6500,8 +6359,7 @@
    "ewi": 2.8,
    "ewa": 4.4,
    "img": "spirits/263-机械方方/多彩方方/avatar.webp",
-   "art": "spirits/263-机械方方/多彩方方/art.webp",
-   "bci": 3201
+   "art": "spirits/263-机械方方/多彩方方/art.webp"
   },
   {
    "n": "立方人",
@@ -6509,8 +6367,8 @@
    "eggId": 3200001,
    "stg": 3,
    "eg": [
-    "机械组",
-    "拟人组"
+    "拟人组",
+    "机械组"
    ],
    "hi": 1.78,
    "ha": 2.01,
@@ -6521,8 +6379,7 @@
    "ewi": 2.8,
    "ewa": 4.4,
    "img": "spirits/263-机械方方/立方人/avatar.webp",
-   "art": "spirits/263-机械方方/立方人/art.webp",
-   "bci": 3202
+   "art": "spirits/263-机械方方/立方人/art.webp"
   },
   {
    "n": "可立鸡",
@@ -6530,8 +6387,8 @@
    "eggId": 3086001,
    "stg": 1,
    "eg": [
-    "天空组",
-    "拟人组"
+    "拟人组",
+    "天空组"
    ],
    "hi": 0.39,
    "ha": 0.56,
@@ -6555,8 +6412,8 @@
    "eggId": 3086001,
    "stg": 2,
    "eg": [
-    "天空组",
-    "拟人组"
+    "拟人组",
+    "天空组"
    ],
    "hi": 0.68,
    "ha": 0.91,
@@ -6567,17 +6424,16 @@
    "ewi": 1.61,
    "ewa": 2.96,
    "img": "spirits/266-可立鸡/晕晕鸡/avatar.webp",
-   "art": "spirits/266-可立鸡/晕晕鸡/art.webp",
-   "bci": 3087
+   "art": "spirits/266-可立鸡/晕晕鸡/art.webp"
   },
   {
    "n": "武者鸡",
-   "no": 269,
+   "no": 268,
    "eggId": 3086001,
    "stg": 3,
    "eg": [
-    "天空组",
-    "拟人组"
+    "拟人组",
+    "天空组"
    ],
    "hi": 1.46,
    "ha": 2.09,
@@ -6588,8 +6444,7 @@
    "ewi": 1.61,
    "ewa": 2.96,
    "img": "spirits/266-可立鸡/武者鸡/avatar.webp",
-   "art": "spirits/266-可立鸡/武者鸡/art.webp",
-   "bci": 3089
+   "art": "spirits/266-可立鸡/武者鸡/art.webp"
   },
   {
    "n": "绅士鸡",
@@ -6597,8 +6452,8 @@
    "eggId": 3086001,
    "stg": 3,
    "eg": [
-    "天空组",
-    "拟人组"
+    "拟人组",
+    "天空组"
    ],
    "hi": 1.31,
    "ha": 1.87,
@@ -6609,8 +6464,7 @@
    "ewi": 1.61,
    "ewa": 2.96,
    "img": "spirits/266-可立鸡/绅士鸡/avatar.webp",
-   "art": "spirits/266-可立鸡/绅士鸡/art.webp",
-   "bci": 3088
+   "art": "spirits/266-可立鸡/绅士鸡/art.webp"
   },
   {
    "n": "优优",
@@ -6653,8 +6507,7 @@
    "ewi": 1.061,
    "ewa": 1.64,
    "img": "spirits/270-优优/绒光优优/avatar.webp",
-   "art": "spirits/270-优优/绒光优优/art.webp",
-   "bci": 3705
+   "art": "spirits/270-优优/绒光优优/art.webp"
   },
   {
    "n": "噼啪鸟",
@@ -6662,8 +6515,8 @@
    "eggId": 3444001,
    "stg": 1,
    "eg": [
-    "天空组",
-    "巨灵组"
+    "巨灵组",
+    "天空组"
    ],
    "hi": 2,
    "ha": 2.15,
@@ -6687,8 +6540,8 @@
    "eggId": 3381001,
    "stg": 1,
    "eg": [
-    "海洋组",
-    "巨灵组"
+    "巨灵组",
+    "海洋组"
    ],
    "hi": 2,
    "ha": 2.65,
@@ -6749,8 +6602,7 @@
    "ewi": 1.225,
    "ewa": 2.16,
    "img": "spirits/274-格兰种子/格兰花/avatar.webp",
-   "art": "spirits/274-格兰种子/格兰花/art.webp",
-   "bci": 3073
+   "art": "spirits/274-格兰种子/格兰花/art.webp"
   },
   {
    "n": "格兰球",
@@ -6770,8 +6622,7 @@
    "ewi": 1.225,
    "ewa": 2.16,
    "img": "spirits/274-格兰种子/格兰球/avatar.webp",
-   "art": "spirits/274-格兰种子/格兰球/art.webp",
-   "bci": 3074
+   "art": "spirits/274-格兰种子/格兰球/art.webp"
   },
   {
    "n": "地鼠(储水)",
@@ -6831,8 +6682,8 @@
    "bci": 3021,
    "hi": 0.48,
    "ha": 0.69,
-   "wi": 34,
-   "wa": 48,
+   "wi": 3.4,
+   "wa": 4.8,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -6851,8 +6702,8 @@
    "bci": 3022,
    "hi": 0.64,
    "ha": 0.92,
-   "wi": 64,
-   "wa": 75,
+   "wi": 6.4,
+   "wa": 7.5,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -6866,8 +6717,8 @@
    "eggId": 3577001,
    "stg": 1,
    "eg": [
-    "海洋组",
-    "软体组"
+    "软体组",
+    "海洋组"
    ],
    "hi": 0.35,
    "ha": 0.46,
@@ -6891,8 +6742,8 @@
    "eggId": 3577001,
    "stg": 2,
    "eg": [
-    "海洋组",
-    "软体组"
+    "软体组",
+    "海洋组"
    ],
    "hi": 1.36,
    "ha": 1.54,
@@ -6902,17 +6753,16 @@
    "eha": 0.19,
    "ewi": 1.138,
    "ewa": 2.008,
-   "img": "spirits/280-墨鱿士/混乱鱿彩/avatar.webp",
-   "bci": 3578
+   "img": "spirits/280-墨鱿士/混乱鱿彩/avatar.webp"
   },
   {
    "n": "秩序鱿墨",
-   "no": 282,
+   "no": 281,
    "eggId": 3577001,
    "stg": 2,
    "eg": [
-    "海洋组",
-    "软体组"
+    "软体组",
+    "海洋组"
    ],
    "hi": 1.59,
    "ha": 1.72,
@@ -6922,8 +6772,7 @@
    "eha": 0.19,
    "ewi": 1.138,
    "ewa": 2.008,
-   "img": "spirits/280-墨鱿士/秩序鱿墨/avatar.webp",
-   "bci": 3579
+   "img": "spirits/280-墨鱿士/秩序鱿墨/avatar.webp"
   },
   {
    "n": "小甲虫",
@@ -6931,8 +6780,8 @@
    "eggId": 3038001,
    "stg": 1,
    "eg": [
-    "昆虫组",
-    "天空组"
+    "天空组",
+    "昆虫组"
    ],
    "hi": 0.48,
    "ha": 0.68,
@@ -6956,8 +6805,8 @@
    "bci": 3013,
    "stg": 2,
    "eg": [
-    "昆虫组",
-    "天空组"
+    "天空组",
+    "昆虫组"
    ],
    "hi": 1.17,
    "ha": 1.68,
@@ -6976,8 +6825,8 @@
    "eggId": 3545001,
    "stg": 1,
    "eg": [
-    "机械组",
-    "巨灵组"
+    "巨灵组",
+    "机械组"
    ],
    "hi": 0.94,
    "ha": 1.18,
@@ -7001,8 +6850,8 @@
    "eggId": 3545001,
    "stg": 2,
    "eg": [
-    "机械组",
-    "巨灵组"
+    "巨灵组",
+    "机械组"
    ],
    "hi": 1.83,
    "ha": 2.07,
@@ -7013,8 +6862,7 @@
    "ewi": 40.495,
    "ewa": 69.44,
    "img": "spirits/285-圣剑侍从/圣剑-X/avatar.webp",
-   "art": "spirits/285-圣剑侍从/圣剑-X/art.webp",
-   "bci": 3546
+   "art": "spirits/285-圣剑侍从/圣剑-X/art.webp"
   },
   {
    "eggId": 3545001,
@@ -7025,18 +6873,17 @@
     "机械组"
    ],
    "n": "圣剑骑士",
-   "hi": 2.44,
-   "ha": 2.92,
-   "wi": 865.0,
-   "wa": 1100.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/285-圣剑侍从/圣剑骑士/avatar.webp",
    "branchOf": null,
-   "art": "spirits/285-圣剑侍从/圣剑骑士/art.webp",
-   "bci": 4089
+   "art": "spirits/285-圣剑侍从/圣剑骑士/art.webp"
   },
   {
    "n": "吸泥鸥",
@@ -7081,8 +6928,7 @@
    "ewi": 3.325,
    "ewa": 5,
    "img": "spirits/287-吸泥鸥/泥吼牙/avatar.webp",
-   "art": "spirits/287-吸泥鸥/泥吼牙/art.webp",
-   "bci": 3491
+   "art": "spirits/287-吸泥鸥/泥吼牙/art.webp"
   },
   {
    "eggId": 3490001,
@@ -7093,18 +6939,17 @@
     "两栖组"
    ],
    "n": "淤泥乌泽",
-   "hi": 1.63,
-   "ha": 1.9,
-   "wi": 64.3,
-   "wa": 93.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/287-吸泥鸥/淤泥乌泽/avatar.webp",
    "branchOf": null,
-   "art": "spirits/287-吸泥鸥/淤泥乌泽/art.webp",
-   "bci": 4102
+   "art": "spirits/287-吸泥鸥/淤泥乌泽/art.webp"
   },
   {
    "n": "大头骨龙",
@@ -7112,8 +6957,8 @@
    "eggId": 3268001,
    "stg": 1,
    "eg": [
-    "巨龙组",
-    "巨灵组"
+    "巨灵组",
+    "龙组"
    ],
    "hi": 0.85,
    "ha": 1,
@@ -7136,8 +6981,8 @@
    "eggId": 3268001,
    "stg": 2,
    "eg": [
-    "巨龙组",
-    "巨灵组"
+    "巨灵组",
+    "龙组"
    ],
    "hi": 2.25,
    "ha": 2.45,
@@ -7147,8 +6992,7 @@
    "eha": 0.42,
    "ewi": 6.51,
    "ewa": 13.4,
-   "img": "spirits/289-大头骨龙/寂灭骨龙/avatar.webp",
-   "bci": 3269
+   "img": "spirits/289-大头骨龙/寂灭骨龙/avatar.webp"
   },
   {
    "n": "厉毒小萝",
@@ -7190,8 +7034,7 @@
    "eha": 0.27,
    "ewi": 3.056,
    "ewa": 5.968,
-   "img": "spirits/291-厉毒小萝/厉毒修萝/avatar.webp",
-   "bci": 3420
+   "img": "spirits/291-厉毒小萝/厉毒修萝/avatar.webp"
   },
   {
    "n": "毛头小蛛",
@@ -7235,8 +7078,7 @@
    "ewi": 0.333,
    "ewa": 0.62,
    "img": "spirits/296-毛头小蛛/捕尘长绒/avatar.webp",
-   "art": "spirits/296-毛头小蛛/捕尘长绒/art.webp",
-   "bci": 3604
+   "art": "spirits/296-毛头小蛛/捕尘长绒/art.webp"
   },
   {
    "eggId": 3603001,
@@ -7247,18 +7089,17 @@
     "妖精组"
    ],
    "n": "食尘短绒",
-   "hi": 0.75,
-   "ha": 0.9,
-   "wi": 2.65,
-   "wa": 5.15,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/296-毛头小蛛/食尘短绒/avatar.webp",
    "branchOf": null,
-   "art": "spirits/296-毛头小蛛/食尘短绒/art.webp",
-   "bci": 3605
+   "art": "spirits/296-毛头小蛛/食尘短绒/art.webp"
   },
   {
    "n": "画精灵",
@@ -7266,8 +7107,8 @@
    "eggId": 3606001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "巨灵组"
+    "巨灵组",
+    "妖精组"
    ],
    "hi": 0.28,
    "ha": 0.38,
@@ -7292,8 +7133,8 @@
    "eggId": 3606001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "巨灵组"
+    "巨灵组",
+    "妖精组"
    ],
    "hi": 0.49,
    "ha": 0.6,
@@ -7304,8 +7145,7 @@
    "ewi": 0.347,
    "ewa": 0.608,
    "img": "spirits/299-画精灵/画像守护/avatar.webp",
-   "art": "spirits/299-画精灵/画像守护/art.webp",
-   "bci": 3607
+   "art": "spirits/299-画精灵/画像守护/art.webp"
   },
   {
    "n": "画间法师手",
@@ -7313,8 +7153,8 @@
    "eggId": 3606001,
    "stg": 3,
    "eg": [
-    "妖精组",
-    "巨灵组"
+    "巨灵组",
+    "妖精组"
    ],
    "hi": 2.08,
    "ha": 2.45,
@@ -7325,8 +7165,7 @@
    "ewi": 0.347,
    "ewa": 0.608,
    "img": "spirits/299-画精灵/画间法师手/avatar.webp",
-   "art": "spirits/299-画精灵/画间法师手/art.webp",
-   "bci": 3608
+   "art": "spirits/299-画精灵/画间法师手/art.webp"
   },
   {
    "n": "画间沉铁兽",
@@ -7334,8 +7173,8 @@
    "eggId": 3606001,
    "stg": 3,
    "eg": [
-    "妖精组",
-    "巨灵组"
+    "巨灵组",
+    "妖精组"
    ],
    "hi": 1.75,
    "ha": 1.92,
@@ -7346,8 +7185,7 @@
    "ewi": 0.347,
    "ewa": 0.608,
    "img": "spirits/299-画精灵/画间沉铁兽/avatar.webp",
-   "art": "spirits/299-画精灵/画间沉铁兽/art.webp",
-   "bci": 3609
+   "art": "spirits/299-画精灵/画间沉铁兽/art.webp"
   },
   {
    "n": "书魔虫",
@@ -7355,8 +7193,8 @@
    "eggId": 3610001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "巨灵组"
+    "巨灵组",
+    "妖精组"
    ],
    "hi": 0.3,
    "ha": 0.41,
@@ -7381,8 +7219,8 @@
    "eggId": 3610001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "巨灵组"
+    "巨灵组",
+    "妖精组"
    ],
    "hi": 0.82,
    "ha": 1.01,
@@ -7393,8 +7231,7 @@
    "ewi": 0.798,
    "ewa": 1.544,
    "img": "spirits/303-书魔虫/书卷守护/avatar.webp",
-   "art": "spirits/303-书魔虫/书卷守护/art.webp",
-   "bci": 3611
+   "art": "spirits/303-书魔虫/书卷守护/art.webp"
   },
   {
    "n": "古卷执政官",
@@ -7402,8 +7239,8 @@
    "eggId": 3610001,
    "stg": 3,
    "eg": [
-    "妖精组",
-    "巨灵组"
+    "巨灵组",
+    "妖精组"
    ],
    "hi": 1.91,
    "ha": 2.21,
@@ -7414,30 +7251,28 @@
    "ewi": 0.798,
    "ewa": 1.544,
    "img": "spirits/303-书魔虫/古卷执政官/avatar.webp",
-   "art": "spirits/303-书魔虫/古卷执政官/art.webp",
-   "bci": 3612
+   "art": "spirits/303-书魔虫/古卷执政官/art.webp"
   },
   {
    "eggId": 3610001,
    "no": 306,
    "stg": 3,
    "eg": [
-    "妖精组",
-    "巨灵组"
+    "巨灵组",
+    "妖精组"
    ],
    "n": "古卷匣魔像",
-   "hi": 1.87,
-   "ha": 2.15,
-   "wi": 119.5,
-   "wa": 180.5,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/303-书魔虫/古卷匣魔像/avatar.webp",
    "branchOf": null,
-   "art": "spirits/303-书魔虫/古卷匣魔像/art.webp",
-   "bci": 3613
+   "art": "spirits/303-书魔虫/古卷匣魔像/art.webp"
   },
   {
    "n": "果冻",
@@ -7445,8 +7280,8 @@
    "eggId": 3118001,
    "stg": 1,
    "eg": [
-    "海洋组",
-    "魔力组"
+    "魔力组",
+    "海洋组"
    ],
    "hi": 0.3,
    "ha": 0.36,
@@ -7467,12 +7302,12 @@
   },
   {
    "n": "抹茶布丁",
-   "no": 314,
+   "no": 315,
    "eggId": 3118001,
    "stg": 2,
    "eg": [
-    "海洋组",
-    "魔力组"
+    "魔力组",
+    "海洋组"
    ],
    "hi": 0.39,
    "ha": 0.51,
@@ -7483,8 +7318,7 @@
    "ewi": 1.523,
    "ewa": 2.24,
    "img": "spirits/313-果冻/抹茶布丁/avatar.webp",
-   "art": "spirits/313-果冻/抹茶布丁/art.webp",
-   "bci": 3526
+   "art": "spirits/313-果冻/抹茶布丁/art.webp"
   },
   {
    "n": "椰浆布丁",
@@ -7492,6 +7326,7 @@
    "eggId": 3118001,
    "stg": 2,
    "eg": [
+    "魔力组",
     "海洋组"
    ],
    "hi": 0.39,
@@ -7503,8 +7338,7 @@
    "ewi": 1.523,
    "ewa": 2.24,
    "img": "spirits/313-果冻/椰浆布丁/avatar.webp",
-   "art": "spirits/313-果冻/椰浆布丁/art.webp",
-   "bci": 3527
+   "art": "spirits/313-果冻/椰浆布丁/art.webp"
   },
   {
    "n": "熔岩布丁",
@@ -7512,6 +7346,7 @@
    "eggId": 3118001,
    "stg": 2,
    "eg": [
+    "魔力组",
     "海洋组"
    ],
    "hi": 0.39,
@@ -7523,11 +7358,10 @@
    "ewi": 1.523,
    "ewa": 2.24,
    "img": "spirits/313-果冻/熔岩布丁/avatar.webp",
-   "art": "spirits/313-果冻/熔岩布丁/art.webp",
-   "bci": 3528
+   "art": "spirits/313-果冻/熔岩布丁/art.webp"
   },
   {
-   "n": "星辰虫",
+   "n": "星尘虫",
    "no": 317,
    "eggId": 3398001,
    "stg": 1,
@@ -7567,8 +7401,7 @@
    "ewi": 0.263,
    "ewa": 0.34,
    "img": "spirits/318-落星虫/落星虫/avatar.webp",
-   "art": "spirits/318-落星虫/落星虫/art.webp",
-   "bci": 3399
+   "art": "spirits/318-落星虫/落星虫/art.webp"
   },
   {
    "n": "陨星虫",
@@ -7587,8 +7420,7 @@
    "ewi": 0.263,
    "ewa": 0.34,
    "img": "spirits/318-落星虫/陨星虫/avatar.webp",
-   "art": "spirits/318-落星虫/陨星虫/art.webp",
-   "bci": 3400
+   "art": "spirits/318-落星虫/陨星虫/art.webp"
   },
   {
    "n": "双灯鱼",
@@ -7631,8 +7463,7 @@
    "ewi": 5.215,
    "ewa": 7.12,
    "img": "spirits/320-双灯鱼/利灯鱼/avatar.webp",
-   "art": "spirits/320-双灯鱼/利灯鱼/art.webp",
-   "bci": 3383
+   "art": "spirits/320-双灯鱼/利灯鱼/art.webp"
   },
   {
    "n": "月牙雪熊",
@@ -7700,8 +7531,7 @@
    "ewi": 0.511,
    "ewa": 1.22,
    "img": "spirits/323-嗜光嗡嗡/窃光蚊/avatar.webp",
-   "art": "spirits/323-嗜光嗡嗡/窃光蚊/art.webp",
-   "bci": 3615
+   "art": "spirits/323-嗜光嗡嗡/窃光蚊/art.webp"
   },
   {
    "n": "柴渣虫",
@@ -7709,8 +7539,8 @@
    "eggId": 3436001,
    "stg": 1,
    "eg": [
-    "昆虫组",
-    "植物组"
+    "植物组",
+    "昆虫组"
    ],
    "hi": 0.45,
    "ha": 0.55,
@@ -7732,8 +7562,8 @@
    "eggId": 3436001,
    "stg": 2,
    "eg": [
-    "昆虫组",
-    "植物组"
+    "植物组",
+    "昆虫组"
    ],
    "hi": 1.1,
    "ha": 1.25,
@@ -7743,8 +7573,7 @@
    "eha": 0.23,
    "ewi": 5.075,
    "ewa": 7.44,
-   "img": "spirits/325-柴渣虫/燃薪虫/avatar.webp",
-   "bci": 3437
+   "img": "spirits/325-柴渣虫/燃薪虫/avatar.webp"
   },
   {
    "n": "空空颅",
@@ -7752,8 +7581,8 @@
    "eggId": 3148001,
    "stg": 1,
    "eg": [
-    "魔力组",
-    "巨灵组"
+    "巨灵组",
+    "魔力组"
    ],
    "hi": 0.43,
    "ha": 0.61,
@@ -7777,8 +7606,8 @@
    "eggId": 3148001,
    "stg": 2,
    "eg": [
-    "魔力组",
-    "巨灵组"
+    "巨灵组",
+    "魔力组"
    ],
    "hi": 0.82,
    "ha": 1.18,
@@ -7789,8 +7618,7 @@
    "ewi": 1.96,
    "ewa": 3.48,
    "img": "spirits/327-空空颅/夜宿颅/avatar.webp",
-   "art": "spirits/327-空空颅/夜宿颅/art.webp",
-   "bci": 3149
+   "art": "spirits/327-空空颅/夜宿颅/art.webp"
   },
   {
    "n": "夜枭",
@@ -7798,8 +7626,8 @@
    "eggId": 3148001,
    "stg": 3,
    "eg": [
-    "魔力组",
-    "巨灵组"
+    "巨灵组",
+    "魔力组"
    ],
    "hi": 1.45,
    "ha": 2.07,
@@ -7810,8 +7638,7 @@
    "ewi": 1.96,
    "ewa": 3.48,
    "img": "spirits/327-空空颅/夜枭/avatar.webp",
-   "art": "spirits/327-空空颅/夜枭/art.webp",
-   "bci": 3150
+   "art": "spirits/327-空空颅/夜枭/art.webp"
   },
   {
    "eggId": 3148001,
@@ -7819,18 +7646,17 @@
    "stg": 4,
    "eg": [],
    "n": "暗夜颅主",
-   "hi": 2.34,
-   "ha": 3.01,
-   "wi": 96.6,
-   "wa": 150.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/327-空空颅/暗夜颅主/avatar.webp",
    "branchOf": null,
-   "art": "spirits/327-空空颅/暗夜颅主/art.webp",
-   "bci": 4104
+   "art": "spirits/327-空空颅/暗夜颅主/art.webp"
   },
   {
    "n": "粉粉星",
@@ -7838,8 +7664,8 @@
    "eggId": 3198001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "软体组"
+    "软体组",
+    "妖精组"
    ],
    "hi": 0.53,
    "ha": 0.76,
@@ -7863,8 +7689,8 @@
    "eggId": 3198001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "软体组"
+    "软体组",
+    "妖精组"
    ],
    "hi": 0.7,
    "ha": 1,
@@ -7875,8 +7701,7 @@
    "ewi": 0.735,
    "ewa": 1.2,
    "img": "spirits/330-粉粉星/小皮球/avatar.webp",
-   "art": "spirits/330-粉粉星/小皮球/art.webp",
-   "bci": 3199
+   "art": "spirits/330-粉粉星/小皮球/art.webp"
   },
   {
    "n": "贝瑟",
@@ -7918,8 +7743,7 @@
    "ewi": 8.575,
    "ewa": 13.84,
    "img": "spirits/332-贝瑟/贝加尔/avatar.webp",
-   "art": "spirits/332-贝瑟/贝加尔/art.webp",
-   "bci": 3204
+   "art": "spirits/332-贝瑟/贝加尔/art.webp"
   },
   {
    "n": "贝古斯",
@@ -7938,8 +7762,7 @@
    "ewi": 8.575,
    "ewa": 13.84,
    "img": "spirits/332-贝瑟/贝古斯/avatar.webp",
-   "art": "spirits/332-贝瑟/贝古斯/art.webp",
-   "bci": 3205
+   "art": "spirits/332-贝瑟/贝古斯/art.webp"
   },
   {
    "n": "粉星仔",
@@ -7947,8 +7770,8 @@
    "eggId": 3319001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "天空组"
+    "天空组",
+    "妖精组"
    ],
    "hi": 0.39,
    "ha": 0.5,
@@ -7971,8 +7794,8 @@
    "eggId": 3319001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "天空组"
+    "天空组",
+    "妖精组"
    ],
    "hi": 0.55,
    "ha": 0.75,
@@ -7982,8 +7805,7 @@
    "eha": 0.21,
    "ewi": 3.43,
    "ewa": 5.12,
-   "img": "spirits/335-粉星仔/粉耳星兔/avatar.webp",
-   "bci": 3320
+   "img": "spirits/335-粉星仔/粉耳星兔/avatar.webp"
   },
   {
    "n": "落陨星兔",
@@ -7991,8 +7813,8 @@
    "eggId": 3319001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "天空组"
+    "天空组",
+    "妖精组"
    ],
    "hi": 0.55,
    "ha": 0.75,
@@ -8002,8 +7824,7 @@
    "eha": 0.21,
    "ewi": 3.43,
    "ewa": 5.12,
-   "img": "spirits/335-粉星仔/落陨星兔/avatar.webp",
-   "bci": 3485
+   "img": "spirits/335-粉星仔/落陨星兔/avatar.webp"
   },
   {
    "n": "布瓜蝌",
@@ -8046,8 +7867,7 @@
    "ewi": 0.298,
    "ewa": 0.42,
    "img": "spirits/338-布瓜蝌/上岸蛙/avatar.webp",
-   "art": "spirits/338-布瓜蝌/上岸蛙/art.webp",
-   "bci": 3474
+   "art": "spirits/338-布瓜蝌/上岸蛙/art.webp"
   },
   {
    "n": "火红尾",
@@ -8088,8 +7908,7 @@
    "ewi": 8.016,
    "ewa": 15.92,
    "img": "spirits/340-火红尾/雅丹鬃/avatar.webp",
-   "art": "spirits/340-火红尾/雅丹鬃/art.webp",
-   "bci": 3745
+   "art": "spirits/340-火红尾/雅丹鬃/art.webp"
   },
   {
    "n": "春团",
@@ -8133,8 +7952,7 @@
    "ewi": 0.735,
    "ewa": 1.44,
    "img": "spirits/342-春团/春兔/avatar.webp",
-   "art": "spirits/342-春团/春兔/art.webp",
-   "bci": 3162
+   "art": "spirits/342-春团/春兔/art.webp"
   },
   {
    "n": "春花兔",
@@ -8154,8 +7972,7 @@
    "ewi": 0.735,
    "ewa": 1.44,
    "img": "spirits/342-春团/春花兔/avatar.webp",
-   "art": "spirits/342-春团/春花兔/art.webp",
-   "bci": 3372
+   "art": "spirits/342-春团/春花兔/art.webp"
   },
   {
    "n": "幽星光",
@@ -8163,8 +7980,8 @@
    "eggId": 3369001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "巨灵组"
+    "巨灵组",
+    "妖精组"
    ],
    "hi": 0.4,
    "ha": 0.55,
@@ -8187,8 +8004,8 @@
    "eggId": 3369001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "巨灵组"
+    "巨灵组",
+    "妖精组"
    ],
    "hi": 0.88,
    "ha": 1.05,
@@ -8199,8 +8016,7 @@
    "ewi": 0.21,
    "ewa": 0.48,
    "img": "spirits/345-幽星光/曜星光/avatar.webp",
-   "art": "spirits/345-幽星光/曜星光/art.webp",
-   "bci": 3370
+   "art": "spirits/345-幽星光/曜星光/art.webp"
   },
   {
    "n": "暮星辰",
@@ -8208,8 +8024,8 @@
    "eggId": 3369001,
    "stg": 3,
    "eg": [
-    "妖精组",
-    "巨灵组"
+    "巨灵组",
+    "妖精组"
    ],
    "hi": 1.85,
    "ha": 2.05,
@@ -8220,8 +8036,7 @@
    "ewi": 0.21,
    "ewa": 0.48,
    "img": "spirits/345-幽星光/暮星辰/avatar.webp",
-   "art": "spirits/345-幽星光/暮星辰/art.webp",
-   "bci": 3371
+   "art": "spirits/345-幽星光/暮星辰/art.webp"
   },
   {
    "n": "猴麦仔",
@@ -8265,8 +8080,7 @@
    "ewi": 2.94,
    "ewa": 7.04,
    "img": "spirits/358-猴麦仔/音碟吼/avatar.webp",
-   "art": "spirits/358-猴麦仔/音碟吼/art.webp",
-   "bci": 3730
+   "art": "spirits/358-猴麦仔/音碟吼/art.webp"
   },
   {
    "n": "加油海葵",
@@ -8274,8 +8088,8 @@
    "eggId": 3659001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "两栖组"
+    "两栖组",
+    "妖精组"
    ],
    "hi": 0.35,
    "ha": 0.47,
@@ -8337,8 +8151,8 @@
    "eggId": 3487001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "拟人组"
+    "拟人组",
+    "妖精组"
    ],
    "hi": 0.48,
    "ha": 0.65,
@@ -8362,8 +8176,8 @@
    "eggId": 3487001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "拟人组"
+    "拟人组",
+    "妖精组"
    ],
    "hi": 0.78,
    "ha": 0.96,
@@ -8374,8 +8188,7 @@
    "ewi": 1.698,
    "ewa": 2.54,
    "img": "spirits/362-小丑豆豆/小丑兔/avatar.webp",
-   "art": "spirits/362-小丑豆豆/小丑兔/art.webp",
-   "bci": 3488
+   "art": "spirits/362-小丑豆豆/小丑兔/art.webp"
   },
   {
    "n": "小丑公爵",
@@ -8383,8 +8196,8 @@
    "eggId": 3487001,
    "stg": 3,
    "eg": [
-    "妖精组",
-    "拟人组"
+    "拟人组",
+    "妖精组"
    ],
    "hi": 1.24,
    "ha": 1.63,
@@ -8395,17 +8208,16 @@
    "ewi": 1.698,
    "ewa": 2.54,
    "img": "spirits/362-小丑豆豆/小丑公爵/avatar.webp",
-   "art": "spirits/362-小丑豆豆/小丑公爵/art.webp",
-   "bci": 3489
+   "art": "spirits/362-小丑豆豆/小丑公爵/art.webp"
   },
   {
    "n": "烟花伯爵",
-   "no": 366,
+   "no": 365,
    "eggId": 3677001,
    "stg": 2,
    "eg": [
-    "机械组",
-    "魔力组"
+    "魔力组",
+    "机械组"
    ],
    "hi": 0.6,
    "ha": 0.88,
@@ -8416,8 +8228,7 @@
    "ewi": 1.768,
    "ewa": 2.528,
    "img": "spirits/365-烟花团/烟花伯爵/avatar.webp",
-   "art": "spirits/365-烟花团/烟花伯爵/art.webp",
-   "bci": 3678
+   "art": "spirits/365-烟花团/烟花伯爵/art.webp"
   },
   {
    "n": "烟花团",
@@ -8425,8 +8236,8 @@
    "eggId": 3677001,
    "stg": 1,
    "eg": [
-    "机械组",
-    "魔力组"
+    "魔力组",
+    "机械组"
    ],
    "hi": 0.33,
    "ha": 0.5,
@@ -8483,8 +8294,7 @@
    "ewi": 0.763,
    "ewa": 2.304,
    "img": "spirits/367-咕咕帽/咕德帽帽/avatar.webp",
-   "art": "spirits/367-咕咕帽/咕德帽帽/art.webp",
-   "bci": 3684
+   "art": "spirits/367-咕咕帽/咕德帽帽/art.webp"
   },
   {
    "n": "炫光迪迪",
@@ -8493,7 +8303,7 @@
    "stg": 1,
    "eg": [
     "动物组",
-    "岩石组"
+    "大地组"
    ],
    "hi": 0.47,
    "ha": 0.68,
@@ -8516,7 +8326,7 @@
    "stg": 2,
    "eg": [
     "动物组",
-    "岩石组"
+    "大地组"
    ],
    "hi": 1.6,
    "ha": 1.87,
@@ -8527,8 +8337,7 @@
    "ewi": 9.1,
    "ewa": 14.84,
    "img": "spirits/369-炫光迪迪/霹雳迪迪/avatar.webp",
-   "art": "spirits/369-炫光迪迪/霹雳迪迪/art.webp",
-   "bci": 3737
+   "art": "spirits/369-炫光迪迪/霹雳迪迪/art.webp"
   },
   {
    "n": "小鼓象",
@@ -8572,8 +8381,7 @@
    "eha": 0.34,
    "ewi": 1.806,
    "ewa": 3.32,
-   "img": "spirits/371-小鼓象/巨鼓象/avatar.webp",
-   "bci": 3709
+   "img": "spirits/371-小鼓象/巨鼓象/avatar.webp"
   },
   {
    "n": "牵线木偶",
@@ -8581,8 +8389,8 @@
    "eggId": 3234001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "拟人组"
+    "拟人组",
+    "妖精组"
    ],
    "hi": 0.63,
    "ha": 0.91,
@@ -8605,8 +8413,8 @@
    "eggId": 3234001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "拟人组"
+    "拟人组",
+    "妖精组"
    ],
    "hi": 0.89,
    "ha": 1.27,
@@ -8616,8 +8424,7 @@
    "eha": 0.38,
    "ewi": 2.09,
    "ewa": 3.48,
-   "art": "spirits/373-牵线木偶/帅帅魔偶/art.webp",
-   "bci": 3235
+   "art": "spirits/373-牵线木偶/帅帅魔偶/art.webp"
   },
   {
    "n": "烈钻鸟",
@@ -8625,8 +8432,8 @@
    "eggId": 3078001,
    "stg": 1,
    "eg": [
-    "天空组",
-    "动物组"
+    "动物组",
+    "天空组"
    ],
    "hi": 0.67,
    "ha": 0.95,
@@ -8650,8 +8457,8 @@
    "eggId": 3078001,
    "stg": 2,
    "eg": [
-    "天空组",
-    "动物组"
+    "动物组",
+    "天空组"
    ],
    "hi": 0.84,
    "ha": 1.2,
@@ -8661,8 +8468,7 @@
    "eha": 0.39,
    "ewi": 1.645,
    "ewa": 2.32,
-   "art": "spirits/376-烈钻鸟/长尾火鸟/art.webp",
-   "bci": 3079
+   "art": "spirits/376-烈钻鸟/长尾火鸟/art.webp"
   },
   {
    "n": "火羽",
@@ -8670,8 +8476,8 @@
    "eggId": 3078001,
    "stg": 3,
    "eg": [
-    "天空组",
-    "动物组"
+    "动物组",
+    "天空组"
    ],
    "hi": 1.33,
    "ha": 1.91,
@@ -8681,8 +8487,7 @@
    "eha": 0.39,
    "ewi": 1.645,
    "ewa": 2.32,
-   "art": "spirits/376-烈钻鸟/火羽/art.webp",
-   "bci": 3080
+   "art": "spirits/376-烈钻鸟/火羽/art.webp"
   },
   {
    "n": "叮叮卯",
@@ -8724,8 +8529,7 @@
    "ehi": 0.06,
    "eha": 0.13,
    "ewi": 0.105,
-   "ewa": 0.36,
-   "bci": 3753
+   "ewa": 0.36
   },
   {
    "n": "碎晶蝎",
@@ -8733,8 +8537,8 @@
    "eggId": 3402001,
    "stg": 1,
    "eg": [
-    "昆虫组",
-    "岩石组"
+    "大地组",
+    "昆虫组"
    ],
    "hi": 0.4,
    "ha": 0.54,
@@ -8757,8 +8561,8 @@
    "eggId": 3402001,
    "stg": 2,
    "eg": [
-    "昆虫组",
-    "岩石组"
+    "大地组",
+    "昆虫组"
    ],
    "hi": 0.48,
    "ha": 0.59,
@@ -8767,8 +8571,7 @@
    "ehi": 0.17,
    "eha": 0.22,
    "ewi": 3.262,
-   "ewa": 5.8,
-   "bci": 3403
+   "ewa": 5.8
   },
   {
    "n": "蝎子王",
@@ -8776,8 +8579,8 @@
    "eggId": 3402001,
    "stg": 3,
    "eg": [
-    "昆虫组",
-    "岩石组"
+    "大地组",
+    "昆虫组"
    ],
    "hi": 0.61,
    "ha": 0.82,
@@ -8787,8 +8590,7 @@
    "eha": 0.22,
    "ewi": 3.262,
    "ewa": 5.8,
-   "art": "spirits/381-碎晶蝎/蝎子王/art.webp",
-   "bci": 3404
+   "art": "spirits/381-碎晶蝎/蝎子王/art.webp"
   },
   {
    "n": "森豆丁",
@@ -8796,8 +8598,8 @@
    "eggId": 3749001,
    "stg": 1,
    "eg": [
-    "巨灵组",
-    "拟人组"
+    "拟人组",
+    "巨灵组"
    ],
    "hi": 0.72,
    "ha": 1.1,
@@ -8820,8 +8622,8 @@
    "eggId": 3749001,
    "stg": 2,
    "eg": [
-    "巨灵组",
-    "拟人组"
+    "拟人组",
+    "巨灵组"
    ],
    "hi": 1.05,
    "ha": 1.39,
@@ -8831,8 +8633,7 @@
    "eha": 0.46,
    "ewi": 5.6,
    "ewa": 11.08,
-   "img": "spirits/384-森豆丁/森蛮人/avatar.webp",
-   "bci": 3750
+   "img": "spirits/384-森豆丁/森蛮人/avatar.webp"
   },
   {
    "n": "森巨人",
@@ -8840,8 +8641,8 @@
    "eggId": 3749001,
    "stg": 3,
    "eg": [
-    "巨灵组",
-    "拟人组"
+    "拟人组",
+    "巨灵组"
    ],
    "hi": 1.41,
    "ha": 1.69,
@@ -8851,8 +8652,7 @@
    "eha": 0.46,
    "ewi": 5.6,
    "ewa": 11.08,
-   "img": "spirits/384-森豆丁/森巨人/avatar.webp",
-   "bci": 3751
+   "img": "spirits/384-森豆丁/森巨人/avatar.webp"
   },
   {
    "n": "霹雳宝宝",
@@ -8860,8 +8660,8 @@
    "eggId": 3351001,
    "stg": 1,
    "eg": [
-    "巨灵组",
-    "拟人组"
+    "拟人组",
+    "巨灵组"
    ],
    "hi": 0.57,
    "ha": 0.71,
@@ -8883,8 +8683,8 @@
    "eggId": 3351001,
    "stg": 2,
    "eg": [
-    "巨灵组",
-    "拟人组"
+    "拟人组",
+    "巨灵组"
    ],
    "hi": 0.85,
    "ha": 1.1,
@@ -8894,8 +8694,7 @@
    "eha": 0.29,
    "ewi": 2.338,
    "ewa": 4.32,
-   "img": "spirits/387-霹雳宝宝/雷鸣小子/avatar.webp",
-   "bci": 3352
+   "img": "spirits/387-霹雳宝宝/雷鸣小子/avatar.webp"
   },
   {
    "n": "雷神之子",
@@ -8903,8 +8702,8 @@
    "eggId": 3351001,
    "stg": 3,
    "eg": [
-    "巨灵组",
-    "拟人组"
+    "拟人组",
+    "巨灵组"
    ],
    "hi": 1.44,
    "ha": 1.73,
@@ -8914,8 +8713,7 @@
    "eha": 0.29,
    "ewi": 2.338,
    "ewa": 4.32,
-   "img": "spirits/387-霹雳宝宝/雷神之子/avatar.webp",
-   "bci": 3353
+   "img": "spirits/387-霹雳宝宝/雷神之子/avatar.webp"
   },
   {
    "n": "雪灵兽",
@@ -8957,8 +8755,7 @@
    "ewi": 1.75,
    "ewa": 2.76,
    "img": "spirits/390-雪灵兽/幻雪兽/avatar.webp",
-   "art": "spirits/390-雪灵兽/幻雪兽/art.webp",
-   "bci": 3342
+   "art": "spirits/390-雪灵兽/幻雪兽/art.webp"
   },
   {
    "n": "饮雪狂兽",
@@ -8977,8 +8774,7 @@
    "ewi": 1.75,
    "ewa": 2.76,
    "img": "spirits/390-雪灵兽/饮雪狂兽/avatar.webp",
-   "art": "spirits/390-雪灵兽/饮雪狂兽/art.webp",
-   "bci": 3343
+   "art": "spirits/390-雪灵兽/饮雪狂兽/art.webp"
   },
   {
    "n": "火豆丁",
@@ -8986,8 +8782,8 @@
    "eggId": 3754001,
    "stg": 1,
    "eg": [
-    "巨灵组",
-    "拟人组"
+    "拟人组",
+    "巨灵组"
    ],
    "hi": 0.88,
    "ha": 1.25,
@@ -9010,8 +8806,8 @@
    "eggId": 3754001,
    "stg": 2,
    "eg": [
-    "巨灵组",
-    "拟人组"
+    "拟人组",
+    "巨灵组"
    ],
    "hi": 1.48,
    "ha": 1.76,
@@ -9022,8 +8818,7 @@
    "ewi": 2.625,
    "ewa": 4.4,
    "img": "spirits/393-火豆丁/火蛮人/avatar.webp",
-   "art": "spirits/393-火豆丁/火蛮人/art.webp",
-   "bci": 3755
+   "art": "spirits/393-火豆丁/火蛮人/art.webp"
   },
   {
    "n": "火巨人",
@@ -9031,8 +8826,8 @@
    "eggId": 3754001,
    "stg": 3,
    "eg": [
-    "巨灵组",
-    "拟人组"
+    "拟人组",
+    "巨灵组"
    ],
    "hi": 1.82,
    "ha": 2.35,
@@ -9043,8 +8838,7 @@
    "ewi": 2.625,
    "ewa": 4.4,
    "img": "spirits/393-火豆丁/火巨人/avatar.webp",
-   "art": "spirits/393-火豆丁/火巨人/art.webp",
-   "bci": 3756
+   "art": "spirits/393-火豆丁/火巨人/art.webp"
   },
   {
    "n": "友爱天天",
@@ -9086,8 +8880,7 @@
    "eha": 0.17,
    "ewi": 1.04,
    "ewa": 1.676,
-   "img": "spirits/396-友爱天天/友爱星飞/avatar.webp",
-   "bci": 3229
+   "img": "spirits/396-友爱天天/友爱星飞/avatar.webp"
   },
   {
    "n": "莫比乌乌",
@@ -9096,7 +8889,7 @@
    "stg": 1,
    "eg": [
     "妖精组",
-    "巨龙组"
+    "龙组"
    ],
    "hi": 0.58,
    "ha": 0.78,
@@ -9121,7 +8914,7 @@
    "stg": 2,
    "eg": [
     "妖精组",
-    "巨龙组"
+    "龙组"
    ],
    "hi": 1.38,
    "ha": 1.68,
@@ -9131,8 +8924,7 @@
    "eha": 0.32,
    "ewi": 0.98,
    "ewa": 1.92,
-   "img": "spirits/398-莫比乌乌/克莱因龙/avatar.webp",
-   "bci": 3748
+   "img": "spirits/398-莫比乌乌/克莱因龙/avatar.webp"
   },
   {
    "n": "瑰眼仔",
@@ -9177,8 +8969,7 @@
    "ewi": 1.397,
    "ewa": 2.2,
    "img": "spirits/400-瑰眼仔/耳翎瑰魅/avatar.webp",
-   "art": "spirits/400-瑰眼仔/耳翎瑰魅/art.webp",
-   "bci": 3184
+   "art": "spirits/400-瑰眼仔/耳翎瑰魅/art.webp"
   },
   {
    "n": "邪眼巨魔",
@@ -9198,8 +8989,7 @@
    "ewi": 1.397,
    "ewa": 2.2,
    "img": "spirits/400-瑰眼仔/邪眼巨魔/avatar.webp",
-   "art": "spirits/400-瑰眼仔/邪眼巨魔/art.webp",
-   "bci": 3185
+   "art": "spirits/400-瑰眼仔/邪眼巨魔/art.webp"
   },
   {
    "n": "觅觅蝠",
@@ -9242,8 +9032,7 @@
    "eha": 0.33,
    "ewi": 2.321,
    "ewa": 3.748,
-   "img": "spirits/403-觅觅蝠/翻翻蝠/avatar.webp",
-   "bci": 3322
+   "img": "spirits/403-觅觅蝠/翻翻蝠/avatar.webp"
   },
   {
    "n": "夜游魔",
@@ -9262,8 +9051,7 @@
    "eha": 0.33,
    "ewi": 2.321,
    "ewa": 3.748,
-   "img": "spirits/403-觅觅蝠/夜游魔/avatar.webp",
-   "bci": 3323
+   "img": "spirits/403-觅觅蝠/夜游魔/avatar.webp"
   },
   {
    "n": "芽眼魔",
@@ -9306,8 +9094,7 @@
    "eha": 0.27,
    "ewi": 1.033,
    "ewa": 1.36,
-   "img": "spirits/406-芽眼魔/叶眼魔/avatar.webp",
-   "bci": 3348
+   "img": "spirits/406-芽眼魔/叶眼魔/avatar.webp"
   },
   {
    "n": "障眼魔",
@@ -9326,8 +9113,7 @@
    "eha": 0.27,
    "ewi": 1.033,
    "ewa": 1.36,
-   "img": "spirits/406-芽眼魔/障眼魔/avatar.webp",
-   "bci": 3349
+   "img": "spirits/406-芽眼魔/障眼魔/avatar.webp"
   },
   {
    "n": "星云旅者",
@@ -9335,8 +9121,8 @@
    "eggId": 3466001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "魔力组"
+    "魔力组",
+    "妖精组"
    ],
    "hi": 1.85,
    "ha": 2.3,
@@ -9393,8 +9179,7 @@
    "eha": 0.23,
    "ewi": 1.019,
    "ewa": 1.556,
-   "img": "spirits/410-点点/珀尔鼬/avatar.webp",
-   "bci": 3758
+   "img": "spirits/410-点点/珀尔鼬/avatar.webp"
   },
   {
    "n": "不咕钟",
@@ -9436,8 +9221,7 @@
    "eha": 0.15,
    "ewi": 0.536,
    "ewa": 1.216,
-   "img": "spirits/412-不咕钟/溯源钟/avatar.webp",
-   "bci": 3617
+   "img": "spirits/412-不咕钟/溯源钟/avatar.webp"
   },
   {
    "n": "蝴蝶陶陶",
@@ -9479,8 +9263,7 @@
    "eha": 0.33,
    "ewi": 1.4,
    "ewa": 2.452,
-   "img": "spirits/422-蝴蝶陶陶/铆钉毛毛/avatar.webp",
-   "bci": 3361
+   "img": "spirits/422-蝴蝶陶陶/铆钉毛毛/avatar.webp"
   },
   {
    "n": "徘徊爪爪",
@@ -9499,8 +9282,7 @@
    "eha": 0.33,
    "ewi": 1.4,
    "ewa": 2.452,
-   "img": "spirits/422-蝴蝶陶陶/徘徊爪爪/avatar.webp",
-   "bci": 3362
+   "img": "spirits/422-蝴蝶陶陶/徘徊爪爪/avatar.webp"
   },
   {
    "n": "苞米仔",
@@ -9508,8 +9290,8 @@
    "eggId": 3759001,
    "stg": 1,
    "eg": [
-    "植物组",
-    "拟人组"
+    "拟人组",
+    "植物组"
    ],
    "hi": 0.51,
    "ha": 0.73,
@@ -9533,8 +9315,8 @@
    "eggId": 3759001,
    "stg": 2,
    "eg": [
-    "植物组",
-    "拟人组"
+    "拟人组",
+    "植物组"
    ],
    "hi": 1.37,
    "ha": 1.59,
@@ -9544,8 +9326,7 @@
    "eha": 0.3,
    "ewi": 3.115,
    "ewa": 5.2,
-   "img": "spirits/425-苞米仔/炮米花/avatar.webp",
-   "bci": 3760
+   "img": "spirits/425-苞米仔/炮米花/avatar.webp"
   },
   {
    "n": "十字蝌蚪",
@@ -9553,8 +9334,8 @@
    "eggId": 3591001,
    "stg": 1,
    "eg": [
-    "两栖组",
-    "拟人组"
+    "拟人组",
+    "两栖组"
    ],
    "hi": 0.2,
    "ha": 0.25,
@@ -9578,8 +9359,8 @@
    "eggId": 3591001,
    "stg": 2,
    "eg": [
-    "两栖组",
-    "拟人组"
+    "拟人组",
+    "两栖组"
    ],
    "hi": 0.38,
    "ha": 0.45,
@@ -9590,8 +9371,7 @@
    "ewi": 0.123,
    "ewa": 0.38,
    "img": "spirits/427-十字蝌蚪/十字蛙/avatar.webp",
-   "art": "spirits/427-十字蝌蚪/十字蛙/art.webp",
-   "bci": 3592
+   "art": "spirits/427-十字蝌蚪/十字蛙/art.webp"
   },
   {
    "n": "深渊蛙",
@@ -9599,8 +9379,8 @@
    "eggId": 3591001,
    "stg": 3,
    "eg": [
-    "两栖组",
-    "拟人组"
+    "拟人组",
+    "两栖组"
    ],
    "hi": 0.87,
    "ha": 1.15,
@@ -9611,8 +9391,7 @@
    "ewi": 0.123,
    "ewa": 0.38,
    "img": "spirits/427-十字蝌蚪/深渊蛙/avatar.webp",
-   "art": "spirits/427-十字蝌蚪/深渊蛙/art.webp",
-   "bci": 3593
+   "art": "spirits/427-十字蝌蚪/深渊蛙/art.webp"
   },
   {
    "n": "卡波",
@@ -9655,8 +9434,7 @@
    "ewi": 0.91,
    "ewa": 1.508,
    "img": "spirits/430-卡波/卡拉波斯/avatar.webp",
-   "art": "spirits/430-卡波/卡拉波斯/art.webp",
-   "bci": 3265
+   "art": "spirits/430-卡波/卡拉波斯/art.webp"
   },
   {
    "n": "守夜烛",
@@ -9696,8 +9474,7 @@
    "eha": 0.2,
    "ewi": 4.225,
    "ewa": 7.32,
-   "art": "spirits/432-守夜烛/流明坎德拉/art.webp",
-   "bci": 3676
+   "art": "spirits/432-守夜烛/流明坎德拉/art.webp"
   },
   {
    "n": "蜜果骸",
@@ -9705,8 +9482,8 @@
    "eggId": 3706001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "植物组"
+    "植物组",
+    "妖精组"
    ],
    "hi": 0.35,
    "ha": 0.44,
@@ -9729,8 +9506,8 @@
    "eggId": 3706001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "植物组"
+    "植物组",
+    "妖精组"
    ],
    "hi": 0.56,
    "ha": 0.78,
@@ -9739,8 +9516,7 @@
    "ehi": 0.15,
    "eha": 0.18,
    "ewi": 0.074,
-   "ewa": 0.356,
-   "bci": 3707
+   "ewa": 0.356
   },
   {
    "n": "稻草人",
@@ -9778,8 +9554,7 @@
    "ehi": 0.31,
    "eha": 0.44,
    "ewi": 6.335,
-   "ewa": 15.84,
-   "bci": 3698
+   "ewa": 15.84
   },
   {
    "n": "栗鼠",
@@ -9817,8 +9592,7 @@
    "ehi": 0.16,
    "eha": 0.21,
    "ewi": 2.013,
-   "ewa": 3.04,
-   "bci": 3566
+   "ewa": 3.04
   },
   {
    "n": "宝藏小狐",
@@ -9858,8 +9632,7 @@
    "eha": 0.29,
    "ewi": 1.186,
    "ewa": 1.9,
-   "art": "spirits/441-宝藏小狐/宝藏沙狐/art.webp",
-   "bci": 3741
+   "art": "spirits/441-宝藏小狐/宝藏沙狐/art.webp"
   },
   {
    "n": "章脑丸",
@@ -9867,8 +9640,8 @@
    "eggId": 3767001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "软体组"
+    "软体组",
+    "妖精组"
    ],
    "hi": 0.59,
    "ha": 0.9,
@@ -9892,8 +9665,8 @@
    "eggId": 3767001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "软体组"
+    "软体组",
+    "妖精组"
    ],
    "hi": 1.53,
    "ha": 1.7,
@@ -9904,8 +9677,7 @@
    "ewi": 0.525,
    "ewa": 1.26,
    "img": "spirits/452-章脑丸/智辉章脑/avatar.webp",
-   "art": "spirits/452-章脑丸/智辉章脑/art.webp",
-   "bci": 3768
+   "art": "spirits/452-章脑丸/智辉章脑/art.webp"
   },
   {
    "n": "未完虫",
@@ -9913,8 +9685,8 @@
    "eggId": 3542001,
    "stg": 1,
    "eg": [
-    "昆虫组",
-    "魔力组"
+    "魔力组",
+    "昆虫组"
    ],
    "hi": 0.1,
    "ha": 0.26,
@@ -9973,8 +9745,7 @@
    "ehi": 0.16,
    "eha": 0.25,
    "ewi": 4.445,
-   "ewa": 8.6,
-   "bci": 3590
+   "ewa": 8.6
   },
   {
    "n": "量风碗",
@@ -10017,8 +9788,7 @@
    "eha": 0.25,
    "ewi": 0.665,
    "ewa": 1.46,
-   "img": "spirits/457-量风碗/测风蝉/avatar.webp",
-   "bci": 3664
+   "img": "spirits/457-量风碗/测风蝉/avatar.webp"
   },
   {
    "n": "小浣蛋",
@@ -10061,8 +9831,7 @@
    "eha": 0.19,
    "ewi": 0.63,
    "ewa": 1.44,
-   "img": "spirits/459-小浣蛋/黑手浣熊/avatar.webp",
-   "bci": 3772
+   "img": "spirits/459-小浣蛋/黑手浣熊/avatar.webp"
   },
   {
    "n": "幽铃",
@@ -10070,8 +9839,8 @@
    "eggId": 3773001,
    "stg": 1,
    "eg": [
-    "妖精组",
-    "魔力组"
+    "魔力组",
+    "妖精组"
    ],
    "hi": 0.4,
    "ha": 0.55,
@@ -10096,8 +9865,8 @@
    "eggId": 3773001,
    "stg": 2,
    "eg": [
-    "妖精组",
-    "魔力组"
+    "魔力组",
+    "妖精组"
    ],
    "hi": 1.05,
    "ha": 1.37,
@@ -10108,8 +9877,7 @@
    "ewi": 0.332,
    "ewa": 0.8,
    "img": "spirits/461-幽铃/摇铃魔偶/avatar.webp",
-   "art": "spirits/461-幽铃/摇铃魔偶/art.webp",
-   "bci": 3774
+   "art": "spirits/461-幽铃/摇铃魔偶/art.webp"
   },
   {
    "n": "星星眼",
@@ -10118,7 +9886,7 @@
    "stg": 1,
    "eg": [
     "天空组",
-    "岩石组"
+    "大地组"
    ],
    "hi": 0.85,
    "ha": 1.22,
@@ -10175,8 +9943,7 @@
    "ewi": 0.35,
    "ewa": 1.16,
    "img": "spirits/464-布灵/布灵布灵/avatar.webp",
-   "art": "spirits/464-布灵/布灵布灵/art.webp",
-   "bci": 3776
+   "art": "spirits/464-布灵/布灵布灵/art.webp"
   },
   {
    "eggId": 3784001,
@@ -10213,18 +9980,17 @@
     "海洋组"
    ],
    "n": "长江豚",
-   "hi": 1.34,
-   "ha": 1.76,
-   "wi": 59.0,
-   "wa": 101.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/468-长江豚/长江豚/avatar.webp",
    "branchOf": null,
-   "art": "spirits/468-长江豚/长江豚/art.webp",
-   "bci": 3785
+   "art": "spirits/468-长江豚/长江豚/art.webp"
   },
   {
    "eggId": 3805001,
@@ -10234,10 +10000,10 @@
     "海洋组"
    ],
    "n": "乐乐鲨",
-   "hi": 0.12,
-   "ha": 0.23,
-   "wi": 1.0,
-   "wa": 2.2,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -10296,10 +10062,10 @@
     "天空组"
    ],
    "n": "蛋包蛋",
-   "hi": 0.26,
-   "ha": 0.4,
-   "wi": 1.27,
-   "wa": 2.68,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -10317,17 +10083,16 @@
     "天空组"
    ],
    "n": "鸡麻麻",
-   "hi": 1.51,
-   "ha": 2.06,
-   "wi": 70.0,
-   "wa": 117.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/480-鸡麻麻/鸡麻麻/avatar.webp",
-   "branchOf": null,
-   "bci": 3809
+   "branchOf": null
   },
   {
    "eggId": 3810001,
@@ -10338,10 +10103,10 @@
     "妖精组"
    ],
    "n": "蟹蟹椰",
-   "hi": 0.29,
-   "ha": 0.41,
-   "wi": 0.6,
-   "wa": 1.4,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -10359,17 +10124,16 @@
     "妖精组"
    ],
    "n": "沙咔蟹",
-   "hi": 1.32,
-   "ha": 1.75,
-   "wi": 67.0,
-   "wa": 120.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/482-沙咔蟹/沙咔蟹/avatar.webp",
-   "branchOf": null,
-   "bci": 3811
+   "branchOf": null
   },
   {
    "eggId": 3812001,
@@ -10380,10 +10144,10 @@
     "海洋组"
    ],
    "n": "鲸羽",
-   "hi": 0.26,
-   "ha": 0.39,
-   "wi": 2.0,
-   "wa": 3.7,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -10401,17 +10165,16 @@
     "海洋组"
    ],
    "n": "圆环鲸羽",
-   "hi": 1.15,
-   "ha": 1.5,
-   "wi": 80.0,
-   "wa": 140.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/484-圆环鲸羽/圆环鲸羽/avatar.webp",
-   "branchOf": null,
-   "bci": 3813
+   "branchOf": null
   },
   {
    "eggId": 3814001,
@@ -10422,10 +10185,10 @@
     "天空组"
    ],
    "n": "豆粒鹅",
-   "hi": 0.15,
-   "ha": 0.25,
-   "wi": 0.8,
-   "wa": 1.66,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -10443,18 +10206,17 @@
     "天空组"
    ],
    "n": "刨雪鹅",
-   "hi": 1.39,
-   "ha": 1.6,
-   "wi": 97.3,
-   "wa": 175.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/486-刨雪鹅/刨雪鹅/avatar.webp",
    "branchOf": null,
-   "art": "spirits/486-刨雪鹅/刨雪鹅/art.webp",
-   "bci": 3815
+   "art": "spirits/486-刨雪鹅/刨雪鹅/art.webp"
   },
   {
    "eggId": 3816001,
@@ -10465,10 +10227,10 @@
     "昆虫组"
    ],
    "n": "西瓜虫",
-   "hi": 0.21,
-   "ha": 0.33,
-   "wi": 0.6,
-   "wa": 1.5,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -10487,18 +10249,17 @@
     "昆虫组"
    ],
    "n": "冬虫夏瓜",
-   "hi": 0.44,
-   "ha": 0.68,
-   "wi": 2.8,
-   "wa": 5.7,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/488-冬虫夏瓜/冬虫夏瓜/avatar.webp",
    "branchOf": null,
-   "art": "spirits/488-冬虫夏瓜/冬虫夏瓜/art.webp",
-   "bci": 3817
+   "art": "spirits/488-冬虫夏瓜/冬虫夏瓜/art.webp"
   },
   {
    "eggId": 3818001,
@@ -10509,10 +10270,10 @@
     "妖精组"
    ],
    "n": "小剪影",
-   "hi": 0.45,
-   "ha": 0.68,
-   "wi": 0.27,
-   "wa": 0.9,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -10545,16 +10306,16 @@
   },
   {
    "eggId": 3820001,
-   "no": 491,
+   "no": 490,
    "stg": 1,
    "eg": [
     "海洋组"
    ],
    "n": "滴溜豚",
-   "hi": 0.15,
-   "ha": 0.3,
-   "wi": 1.5,
-   "wa": 3.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -10572,10 +10333,10 @@
     "植物组"
    ],
    "n": "呆呆铃",
-   "hi": 0.4,
-   "ha": 0.56,
-   "wi": 1.9,
-   "wa": 3.83,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
@@ -10593,17 +10354,16 @@
     "植物组"
    ],
    "n": "跳跳铃",
-   "hi": 0.72,
-   "ha": 1.25,
-   "wi": 21.0,
-   "wa": 35.8,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/495-跳跳铃/跳跳铃/avatar.webp",
-   "branchOf": null,
-   "bci": 3823
+   "branchOf": null
   },
   {
    "eggId": 3822001,
@@ -10614,38 +10374,36 @@
     "植物组"
    ],
    "n": "铃兰夫人",
-   "hi": 1.75,
-   "ha": 2.6,
-   "wi": 50.0,
-   "wa": 70.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/496-铃兰夫人/铃兰夫人/avatar.webp",
-   "branchOf": null,
-   "bci": 3824
+   "branchOf": null
   },
   {
    "eggId": 3820001,
-   "no": 492,
+   "no": 942,
    "stg": 2,
    "eg": [
     "海洋组"
    ],
    "n": "滴廿豚",
-   "hi": 0.4,
-   "ha": 0.6,
-   "wi": 4.0,
-   "wa": 8.0,
+   "hi": null,
+   "ha": null,
+   "wi": null,
+   "wa": null,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/942-滴廿豚/滴廿豚/avatar.webp",
    "branchOf": null,
-   "art": "spirits/942-滴廿豚/滴廿豚/art.webp",
-   "bci": 3821
+   "art": "spirits/942-滴廿豚/滴廿豚/art.webp"
   }
  ],
  "chainOverrides": {
