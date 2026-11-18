@@ -1,6 +1,6 @@
 {
  "ver": 2,
- "at": "2026-11-18T11:03:43",
+ "at": "2026-11-18T11:09:26",
  "spirits": [
   {
    "eggId": 3004001,
@@ -10291,18 +10291,19 @@
     "魔力组",
     "妖精组"
    ],
-   "n": "影子剪刀",
-   "hi": null,
-   "ha": null,
-   "wi": null,
-   "wa": null,
+   "n": "影子剪纸",
+   "hi": 0.1,
+   "ha": 1.0,
+   "wi": 0.01,
+   "wa": 0.1,
    "ehi": null,
    "eha": null,
    "ewi": null,
    "ewa": null,
    "img": "spirits/490-影子剪刀/影子剪刀/avatar.webp",
    "branchOf": null,
-   "art": "spirits/490-影子剪刀/影子剪刀/art.webp"
+   "art": "spirits/490-影子剪刀/影子剪刀/art.webp",
+   "bci": 3682
   },
   {
    "eggId": 3820001,
