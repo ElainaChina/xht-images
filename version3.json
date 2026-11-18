@@ -1,0 +1,23 @@
+{
+  "versionName": "3.4.3",
+  "versionCode": 30403,
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/ElainaChina/xht-images@main/apk/xiaohaitu_3.4.3.apk",
+  "changelog": "小海兔 v3.4.3\n1.账号页面交互设计\n2.优化生成图片的保存路径\n3.优化精灵图片的加载速度",
+  "forceUpdate": false,
+  "publishDate": "2026-10-13",
+  "integrity": {
+    "app.js": "93d818ccf32c01de4ba0b411872bf4e055c795be9ce629195ccaf8b38b0c3816",
+    "embedded_spirits.js": "e6e9b77749dff139bf5ab3cbeb21f0627eb049acd5fe6ed6cc3963731b0402ad",
+    "embedded_evo_chains.js": "45e63709b1e383820b786ccf75bad91dfb5cebfb36fb16b6f36b83b63b615683",
+    "embedded_nature_want.js": "314755d137a9f0bfd78294c0dc92621ad7e7dbade0f0b23880966f1b1a3b049f",
+    "cdn-config.js": "88c71acf857bf0e20419b1f34b05a5d6819ec3469adb349f724d4f45768b3d7f",
+    "pcap-parser.js": "292ac14e1f4ccd40bcd6ac1152f173fedc587b172a975bb466ba590ab23020e3",
+    "style.css": "700439783d21d6450e180d80102f409fbf3033c63e64ae85c16c9ff4bb4c8adc",
+    "index.html": "0e4ef61998007e24794175977dea8ec4b003b5c9f7ef1f0951cd8509039906d2",
+    "viewer.html": "9ce68f4a5b5003cb77b2d78fc6c1324716ff7b55f1577af9717c1f962cd27a18",
+    "embedded_images.js": "cb703bf777f9cde5a3c3f37bfcc3b5f488c57d0cfd9913c1fd580998d04929bc",
+    "integrity.js": "7f72e2801ad0bf302d0af0f699a3d54738e921bb731d26965c28857782b0ed71"
+  },
+  "dataCommit": "b71b49e5502400360e8546398c56a379e51eb1ea",
+  "dbAt": "2026-11-18T15:50:49+08:00"
+}
